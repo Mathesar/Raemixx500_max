@@ -5643,7 +5643,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Raemixx500:A2000_COPRO_SLOT"
+		(property "Footprint" "Raemixx500:A500_SIDE_SLOT"
 			(at 145.161 91.44 0)
 			(effects
 				(font
