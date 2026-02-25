@@ -1,4 +1,8 @@
-# Rämixx500
+# Rämixx500_Max
+**This is work in progress.**
+
+**Here follows the original readme from Sukkopera:**
+
 Rämixx500 is an Open Hardware remake of the Commodore Amiga 500+ mainboard, revision 8A.1.
 
 ![Board](https://raw.githubusercontent.com/SukkoPera/Raemixx500/master/img/render-top.png)
@@ -108,3 +112,4 @@ If you think PCBWay is too expensive, just generate the Gerber files in KiCad (i
 - [Szabó Zoltán](https://twitter.com/DeGenTd) for designing the board logo.
 - [Workshopshed](https://twitter.com/Workshopshed) for the 3D models of the EMI filters.
 - [StormTrooper](https://github.com/StormTrooper/Commodore-Plus4) for a few other 3D models, taken from his Plus/4 remake.
+
