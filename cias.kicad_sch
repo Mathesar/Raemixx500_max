@@ -8017,6 +8017,16 @@
 			(embedded_fonts no)
 		)
 	)
+	(text "rxc"
+		(exclude_from_sim no)
+		(at 245.11 179.832 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "01d46a38-4f99-451d-9656-e13d8e9298fa")
+	)
 	(text "ADDITIONAL CIRCUIT TO BLINK THE\nFLOPPY LED ON HARD DISK ACTIVITY\n\nCONNECT TO PIN 39 OF CF ADAPTERS"
 		(exclude_from_sim no)
 		(at 352.933 142.621 0)
@@ -8050,6 +8060,36 @@
 		)
 		(uuid "1beb227e-78be-4929-a140-438b62744b76")
 	)
+	(text "scts"
+		(exclude_from_sim no)
+		(at 225.552 223.012 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "24382094-2981-402d-87ce-8c08ed3ff04f")
+	)
+	(text "srts"
+		(exclude_from_sim no)
+		(at 245.364 189.992 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "253ed1ac-13e9-48ed-bfe5-9871e628db3f")
+	)
+	(text "stxd"
+		(exclude_from_sim no)
+		(at 245.364 164.592 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "27e1ee7a-1aa7-446e-b247-bcade864f3db")
+	)
 	(text "KEYBOARD\nCONNECTOR"
 		(exclude_from_sim no)
 		(at 385.191 42.164 0)
@@ -8072,6 +8112,46 @@
 		)
 		(uuid "6d3ec509-702b-4437-8849-6a17df1c84bc")
 	)
+	(text "clk"
+		(exclude_from_sim no)
+		(at 244.856 215.392 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "70867d74-7bc3-4727-9f53-32ddd5f73d32")
+	)
+	(text "srxd"
+		(exclude_from_sim no)
+		(at 245.618 174.752 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "79e8c221-bf8b-4c72-860a-9849f1cf7452")
+	)
+	(text "ss"
+		(exclude_from_sim no)
+		(at 244.602 210.312 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "7d39dfd3-c5aa-4cf6-b90a-a126725d55c8")
+	)
+	(text "scd"
+		(exclude_from_sim no)
+		(at 225.298 217.932 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "841d5bd6-6636-4030-947f-4f69fb498b26")
+	)
 	(text "POWER-UP\nRESET"
 		(exclude_from_sim no)
 		(at 380.492 173.228 0)
@@ -8083,6 +8163,16 @@
 		)
 		(uuid "933a0425-32d4-46f3-a1a4-dcd5be4c7913")
 	)
+	(text "txc"
+		(exclude_from_sim no)
+		(at 245.11 169.672 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "9605124b-80e9-41df-8823-470e9b246eef")
+	)
 	(text "THIS CONNECTION IS MISSING\nON THE ORIGINAL SCHEMATICS\nBUT PRESENT ON ACTUAL\nBOARDS! (THANKS LIV2)"
 		(exclude_from_sim no)
 		(at 316.992 221.615 0)
@@ -8093,6 +8183,36 @@
 			(justify right bottom)
 		)
 		(uuid "ac98af0e-daf9-4fd1-9fff-28c2a3b5f2f8")
+	)
+	(text "sqd"
+		(exclude_from_sim no)
+		(at 245.364 200.152 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "b5fc42b5-0aa5-4c09-9755-385de4e997c7")
+	)
+	(text "fg"
+		(exclude_from_sim no)
+		(at 225.044 161.798 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "c5bcf426-4ef2-409f-9d54-fd63e2da0235")
+	)
+	(text "bz"
+		(exclude_from_sim no)
+		(at 244.856 220.472 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "c5c87ed3-9331-4064-9648-0ebf6e656f22")
 	)
 	(text "RS232\nDECOUPLING"
 		(exclude_from_sim no)
@@ -8126,6 +8246,16 @@
 			(justify left bottom)
 		)
 		(uuid "f1dfe36f-4ce7-4aa0-949d-511c3d8dc1bc")
+	)
+	(text "~{err}"
+		(exclude_from_sim no)
+		(at 245.364 42.164 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "f796c209-e0e3-4034-baa4-0c6ac5ec4ba9")
 	)
 	(text "RS232"
 		(exclude_from_sim no)
@@ -14114,16 +14244,6 @@
 		)
 		(uuid "fe5dab6c-514f-4da6-bf62-2d02232e48ea")
 	)
-	(label "ss"
-		(at 243.586 211.074 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "01ec01e6-4a4b-4fdf-9f3e-091bfb02a92f")
-	)
 	(label "d10"
 		(at 61.341 145.415 0)
 		(effects
@@ -14184,26 +14304,6 @@
 		)
 		(uuid "1f973f92-f5b0-40b5-8b7e-924d21eb010c")
 	)
-	(label "srts"
-		(at 243.586 190.754 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "2798daec-3f0c-47f6-a41f-74927a1f45b7")
-	)
-	(label "srxd"
-		(at 243.586 175.514 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "28b7deea-5d13-4749-83fe-03e930444bae")
-	)
 	(label "inuse"
 		(at 348.107 140.716 180)
 		(effects
@@ -14253,16 +14353,6 @@
 			(justify left bottom)
 		)
 		(uuid "2f0724e4-5dd2-4ab4-a8f2-175f188af835")
-	)
-	(label "~{err}"
-		(at 243.586 42.926 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "3182e909-b02b-4492-bec7-0c16850c1d94")
 	)
 	(label "~{auto}"
 		(at 243.586 37.846 0)
@@ -14394,16 +14484,6 @@
 		)
 		(uuid "6b7694ad-8d6e-4edb-8ea3-95c530e6113f")
 	)
-	(label "scts"
-		(at 223.901 223.774 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "6be89456-41f9-4c88-8567-3ef8bb1ae191")
-	)
 	(label "a11"
 		(at 61.341 154.305 0)
 		(effects
@@ -14473,16 +14553,6 @@
 			(justify left bottom)
 		)
 		(uuid "854f4028-d87b-43b2-896d-b8b336cb0826")
-	)
-	(label "stxd"
-		(at 243.586 165.354 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "891a4ac8-d27f-43c3-8ac4-b9b09ee351ad")
 	)
 	(label "pp7"
 		(at 185.166 75.946 0)
@@ -14574,16 +14644,6 @@
 		)
 		(uuid "a859c0ae-0e0f-4ff1-883a-b6b877682aed")
 	)
-	(label "fg"
-		(at 223.901 162.814 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "a8840463-eca0-40ac-bb0c-d79cde6c2b88")
-	)
 	(label "sel1_out"
 		(at 115.062 168.275 180)
 		(effects
@@ -14673,26 +14733,6 @@
 			(justify left bottom)
 		)
 		(uuid "b6cee40a-02d0-4fcb-8609-a5e94c48f4c2")
-	)
-	(label "scd"
-		(at 223.901 218.694 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "bfac9024-5177-4bb3-b40e-7e13d538a10e")
-	)
-	(label "rxc"
-		(at 243.586 180.594 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "c3428620-82fe-4c98-a2b1-2e6217770229")
 	)
 	(label "a[1..23]"
 		(at 37.338 78.994 0)
@@ -14784,26 +14824,6 @@
 		)
 		(uuid "d4dc46b2-196e-4bde-a06f-6c9f725d2ab1")
 	)
-	(label "txc"
-		(at 243.586 170.434 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "d6502f90-7298-48a8-a879-f6500c649891")
-	)
-	(label "clk"
-		(at 243.586 216.154 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "d87bb258-5860-4f0b-8496-2d9d3508e402")
-	)
 	(label "d[0..15]"
 		(at 41.402 57.404 0)
 		(effects
@@ -14884,16 +14904,6 @@
 		)
 		(uuid "f772bc79-1c33-496e-92e1-7a4f1c2cb75a")
 	)
-	(label "bz"
-		(at 243.586 221.234 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "f81b4ef3-c9f1-432c-a2fb-821c24c6d9f1")
-	)
 	(label "a8"
 		(at 61.341 89.154 0)
 		(effects
@@ -14903,16 +14913,6 @@
 			(justify left bottom)
 		)
 		(uuid "fa0fc7ac-f145-454a-b9aa-0fcede57fbeb")
-	)
-	(label "sqd"
-		(at 243.586 200.914 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "fba7ced1-946f-4459-830b-f1361ee0d76f")
 	)
 	(global_label "~{HSYNC}"
 		(shape input)
