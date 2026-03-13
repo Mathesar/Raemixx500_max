@@ -5,9 +5,9 @@
 	(uuid "7bf72639-564b-455b-b633-352a8668a7ef")
 	(paper "A4")
 	(title_block
-		(title "Rämixx500")
-		(date "2019-04-20")
-		(rev "1")
+		(title "Rämixx500_max")
+		(date "2026-03-13")
+		(rev "2")
 		(company "SukkoPera")
 		(comment 4 "Licensed under CC BY-NC-SA 4.0")
 	)

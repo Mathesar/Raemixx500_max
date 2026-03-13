@@ -5,9 +5,9 @@
 	(uuid "571d655e-e334-40d0-874f-9fa6ecfc6bcc")
 	(paper "A3")
 	(title_block
-		(title "Rämixx500")
-		(date "2021-05-23")
-		(rev "1")
+		(title "Rämixx500_max")
+		(date "2026-03-13")
+		(rev "2")
 		(company "SukkoPera")
 		(comment 1 "RS232 AND PARALLEL PORT")
 		(comment 4 "Licensed under CC BY-NC-SA 4.0")

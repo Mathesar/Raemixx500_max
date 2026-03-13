@@ -5,9 +5,9 @@
 	(uuid "03f64a09-12b9-4356-a0cf-d05cb6c0b80a")
 	(paper "A3")
 	(title_block
-		(title "Rämixx500")
-		(date "2020-04-04")
-		(rev "1")
+		(title "Rämixx500_max")
+		(date "2026-03-13")
+		(rev "2")
 		(company "SukkoPera")
 		(comment 1 "POWER AND DECOUPLING")
 		(comment 4 "Licensed under CC BY-NC-SA 4.0")

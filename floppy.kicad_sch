@@ -5,9 +5,9 @@
 	(uuid "9e72dc91-e08e-47af-87e0-6357a2f5e43c")
 	(paper "A4")
 	(title_block
-		(title "Rämixx500")
-		(date "2019-06-23")
-		(rev "1")
+		(title "Rämixx500_max")
+		(date "2026-03-13")
+		(rev "2")
 		(company "SukkoPera")
 		(comment 1 "FLOPPY STUFF")
 		(comment 4 "Licensed under CC BY-NC-SA 4.0")
