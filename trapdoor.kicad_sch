@@ -3708,7 +3708,7 @@
 			)
 		)
 	)
-	(global_label "CCKQ"
+	(global_label "~{CCK_A}"
 		(shape input)
 		(at 185.42 109.22 0)
 		(effects
