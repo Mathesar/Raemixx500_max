@@ -360,7 +360,7 @@
 			(pin bidirectional line
 				(at -15.24 0 0)
 				(length 2.54)
-				(name "PDQ3"
+				(name "PDQ2"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -378,7 +378,7 @@
 			(pin bidirectional line
 				(at -15.24 -2.54 0)
 				(length 2.54)
-				(name "PDQ2"
+				(name "PDQ1"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -936,7 +936,7 @@
 			(pin bidirectional line
 				(at 15.24 2.54 180)
 				(length 2.54)
-				(name "PDQ1"
+				(name "PDQ0"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -954,7 +954,7 @@
 			(pin bidirectional line
 				(at 15.24 0 180)
 				(length 2.54)
-				(name "PDQ4"
+				(name "PDQ3"
 					(effects
 						(font
 							(size 1.27 1.27)
