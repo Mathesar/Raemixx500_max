@@ -5,3 +5,4 @@ fp-info-cache
 *.lck
 /Raemixx500-backups/
 *.kicad_prl
+/production
