@@ -121,7 +121,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Raemixx500:Logo"
+		(property "Footprint" "Raemixx500:logo_max"
 			(at 162.052 182.88 0)
 			(effects
 				(font

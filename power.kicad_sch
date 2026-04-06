@@ -17373,7 +17373,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-16_W7.62mm_Socket_LongPads"
+		(property "Footprint" "Package_DIP:DIP-16_W7.62mm_LongPads"
 			(at 58.928 179.324 0)
 			(effects
 				(font
@@ -17519,7 +17519,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-20_W7.62mm_Socket_LongPads"
+		(property "Footprint" "Package_DIP:DIP-20_W7.62mm_LongPads"
 			(at 133.858 179.324 0)
 			(effects
 				(font
@@ -19069,7 +19069,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-20_W7.62mm_Socket_LongPads"
+		(property "Footprint" "Package_DIP:DIP-20_W7.62mm_LongPads"
 			(at 97.028 179.324 0)
 			(effects
 				(font
