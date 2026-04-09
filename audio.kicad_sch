@@ -6,7 +6,7 @@
 	(paper "A3")
 	(title_block
 		(title "Rämixx500_max")
-		(date "2026-04-01")
+		(date "2026-04-09")
 		(rev "3")
 		(company "SukkoPera")
 		(comment 1 "PAULA PREFERS THE TRADITIONAL MODES")
@@ -1208,6 +1208,209 @@
 					(at 0 -2.54 90)
 					(length 2.032)
 					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "Device:D_Zener_Dual_CommonAnode_KKA_Parallel"
+			(pin_names
+				(offset 0.762)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "D"
+				(at 0 5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "D_Zener_Dual_CommonAnode_KKA_Parallel"
+				(at 0 -5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at -1.27 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at -1.27 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Dual Zener diode, common anode on pin 1"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "diode"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "D_Zener_Dual_CommonAnode_KKA_Parallel_0_0"
+				(polyline
+					(pts
+						(xy 2.032 1.27) (xy 2.54 1.27) (xy 2.54 3.81)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.54 -1.27) (xy 2.54 -3.81) (xy 2.032 -3.81)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "D_Zener_Dual_CommonAnode_KKA_Parallel_0_1"
+				(circle
+					(center -1.27 0)
+					(radius 0.254)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 0) (xy -2.54 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 3.81) (xy 2.54 2.54) (xy 0 1.27) (xy 0 3.81) (xy 0 3.81) (xy 0 3.81)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 -1.27) (xy 2.54 -2.54) (xy 0 -3.81) (xy 0 -1.27) (xy 0 -1.27) (xy 0 -1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.54 2.54) (xy -1.27 2.54) (xy -1.27 -2.54) (xy 2.54 -2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at -5.08 0 0)
+					(length 2.54)
+					(name "A"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 5.08 2.54 180)
+					(length 2.54)
+					(name "K"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 5.08 -2.54 180)
+					(length 2.54)
+					(name "K"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -6975,6 +7178,18 @@
 			(embedded_fonts no)
 		)
 	)
+	(rectangle
+		(start 292.1 114.3)
+		(end 368.3 154.94)
+		(stroke
+			(width 0)
+			(type dash)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 61464c04-0ed4-4adc-a02f-ce7415e32d39)
+	)
 	(text "S"
 		(exclude_from_sim no)
 		(at 223.647 234.061 0)
@@ -6996,6 +7211,17 @@
 			(justify right bottom)
 		)
 		(uuid "0bb7d610-57e4-4574-a4fe-675492a68b39")
+	)
+	(text "Optional ESD diodes\non signals that go to\nPaula and CIA chips"
+		(exclude_from_sim no)
+		(at 345.44 137.16 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "0e2ed426-2c6b-4cd5-8c20-1fdb1759df23")
 	)
 	(text "Note: LED off, Filters bypassed"
 		(exclude_from_sim no)
@@ -7472,6 +7698,12 @@
 		(uuid "46a2d650-d74f-44f0-b0aa-721f6d7a2b71")
 	)
 	(junction
+		(at 320.04 127)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "470e292b-c222-4493-8076-fb3f54cdabca")
+	)
+	(junction
 		(at 202.819 86.233)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -7632,6 +7864,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "8b1ccfba-4fdb-463e-98a5-785207f64a39")
+	)
+	(junction
+		(at 320.04 142.24)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "94008b9a-9443-4186-8203-c20d19e4af9b")
 	)
 	(junction
 		(at 203.962 178.308)
@@ -8358,6 +8596,16 @@
 	)
 	(wire
 		(pts
+			(xy 332.74 144.78) (xy 342.9 144.78)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0bbc6964-e6ec-4205-98fe-519888b2423e")
+	)
+	(wire
+		(pts
 			(xy 226.695 186.309) (xy 226.695 188.722)
 		)
 		(stroke
@@ -8716,6 +8964,16 @@
 		)
 		(uuid "1ddc6862-b668-4850-921f-bf4966687806")
 	)
+	(wire
+		(pts
+			(xy 297.18 129.54) (xy 307.34 129.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1ddd08b7-c06e-41a6-8793-42e3220ba149")
+	)
 	(polyline
 		(pts
 			(xy 188.849 227.457) (xy 188.849 242.57)
@@ -8935,6 +9193,16 @@
 			(type default)
 		)
 		(uuid "265ad2a5-f2c7-43ef-900a-333c66466f36")
+	)
+	(wire
+		(pts
+			(xy 317.5 127) (xy 320.04 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "274917ee-fc25-4d4d-a750-3ef8138540ca")
 	)
 	(wire
 		(pts
@@ -9468,6 +9736,16 @@
 	)
 	(wire
 		(pts
+			(xy 320.04 142.24) (xy 322.58 142.24)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "416069db-bf62-4d38-9000-3810660c06ea")
+	)
+	(wire
+		(pts
 			(xy 274.955 177.673) (xy 274.955 180.848)
 		)
 		(stroke
@@ -9555,6 +9833,16 @@
 			(type default)
 		)
 		(uuid "453183ba-6efa-4afa-a7b2-b9cd1cfa1273")
+	)
+	(wire
+		(pts
+			(xy 332.74 139.7) (xy 342.9 139.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "455b7dde-9d5e-4629-bde9-e7e62192e173")
 	)
 	(wire
 		(pts
@@ -9915,6 +10203,16 @@
 			(type default)
 		)
 		(uuid "54a50100-d383-40d0-bfa7-0091c523110f")
+	)
+	(wire
+		(pts
+			(xy 320.04 142.24) (xy 320.04 147.32)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "550e4c8d-5092-4299-936b-6b07728479ad")
 	)
 	(wire
 		(pts
@@ -10468,6 +10766,16 @@
 	)
 	(wire
 		(pts
+			(xy 297.18 144.78) (xy 307.34 144.78)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7159cc88-4da1-4f85-b1be-b6f809bbfee3")
+	)
+	(wire
+		(pts
 			(xy 292.608 70.485) (xy 303.657 70.485)
 		)
 		(stroke
@@ -10585,6 +10893,16 @@
 			(type default)
 		)
 		(uuid "75b28921-c2a3-43c0-920d-3a9a1138e6f3")
+	)
+	(wire
+		(pts
+			(xy 297.18 124.46) (xy 307.34 124.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7642587c-96a2-4b9c-bbad-7f5d2d9f51f1")
 	)
 	(wire
 		(pts
@@ -10988,6 +11306,16 @@
 	)
 	(wire
 		(pts
+			(xy 297.18 139.7) (xy 307.34 139.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8949114e-3089-444e-9310-b934db68d671")
+	)
+	(wire
+		(pts
 			(xy 143.383 143.637) (xy 143.383 136.144)
 		)
 		(stroke
@@ -11218,6 +11546,16 @@
 	)
 	(wire
 		(pts
+			(xy 320.04 127) (xy 320.04 142.24)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "95c011d5-5714-40fd-82ca-39e42574c890")
+	)
+	(wire
+		(pts
 			(xy 118.618 224.536) (xy 118.618 221.869)
 		)
 		(stroke
@@ -11255,6 +11593,16 @@
 			(type default)
 		)
 		(uuid "977d85a7-b058-4981-82b0-004f4f1587f1")
+	)
+	(wire
+		(pts
+			(xy 320.04 127) (xy 322.58 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9831539b-146d-4600-b546-30e88adbc237")
 	)
 	(wire
 		(pts
@@ -12128,6 +12476,16 @@
 	)
 	(wire
 		(pts
+			(xy 317.5 142.24) (xy 320.04 142.24)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c3a7621b-66fd-448e-aa7c-e67ebf45975b")
+	)
+	(wire
+		(pts
 			(xy 60.325 137.287) (xy 52.197 137.287)
 		)
 		(stroke
@@ -12475,6 +12833,16 @@
 			(type default)
 		)
 		(uuid "cdd24457-855a-49e2-8896-5585d60a0ba4")
+	)
+	(wire
+		(pts
+			(xy 332.74 129.54) (xy 342.9 129.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cddb72cb-fb1d-4876-9b14-4ed7fa77e72e")
 	)
 	(wire
 		(pts
@@ -13105,6 +13473,16 @@
 			(type default)
 		)
 		(uuid "e5b283e9-3c3d-4e29-ae70-c6176973eaac")
+	)
+	(wire
+		(pts
+			(xy 332.74 124.46) (xy 342.9 124.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e5f64bd6-7046-4ce2-af05-70241d56530d")
 	)
 	(bus
 		(pts
@@ -13776,6 +14154,26 @@
 		)
 		(uuid "0b5f3a69-5dc0-490a-bdf3-65927fcf26bf")
 	)
+	(label "up1"
+		(at 297.18 129.54 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "12614c34-5b7d-4ab6-9c26-d2067ddec5f5")
+	)
+	(label "potx2"
+		(at 342.9 144.78 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "131c62ef-7f20-4026-a3e2-26f04f310810")
+	)
 	(label "poty2"
 		(at 208.534 122.682 0)
 		(effects
@@ -13796,6 +14194,16 @@
 		)
 		(uuid "1850c3a0-a8d4-4405-850e-566944244418")
 	)
+	(label "poty1"
+		(at 297.18 144.78 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "20ef164e-bda6-43d8-8a1f-8cf3085e15a8")
+	)
 	(label "drd1"
 		(at 59.182 157.607 180)
 		(effects
@@ -13805,6 +14213,16 @@
 			(justify right bottom)
 		)
 		(uuid "21a5721c-ae56-4dfd-a855-9eb14bcb0d78")
+	)
+	(label "fire1"
+		(at 297.18 124.46 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "246067e4-bc5c-46bf-8c7d-c763b6569d26")
 	)
 	(label "up2"
 		(at 234.061 104.902 90)
@@ -13976,6 +14394,16 @@
 		)
 		(uuid "6d57d461-6ae7-4560-9381-cea05660a7e2")
 	)
+	(label "fire2"
+		(at 342.9 129.54 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "6dfd4b81-3129-4779-97a7-c88a4545a753")
+	)
 	(label "rga1"
 		(at 59.182 181.737 180)
 		(effects
@@ -14025,6 +14453,16 @@
 			(justify right bottom)
 		)
 		(uuid "9973aa59-80bd-47ba-b077-613fb4c53e16")
+	)
+	(label "potx1"
+		(at 297.18 139.7 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "9d0fd06d-68f9-423b-ae2b-1351037e04c2")
 	)
 	(label "drd[0..15]"
 		(at 39.624 119.507 0)
@@ -14086,6 +14524,16 @@
 		)
 		(uuid "b6a3086c-da64-4526-ab69-59d0c0591d6f")
 	)
+	(label "up2"
+		(at 342.9 124.46 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "b83726aa-c91e-45fb-b7ce-e8759cd23290")
+	)
 	(label "rga[1..8]"
 		(at 40.005 161.417 0)
 		(effects
@@ -14145,6 +14593,16 @@
 			(justify left bottom)
 		)
 		(uuid "d7bd6893-2fbf-43f8-b8de-82eec979d6fb")
+	)
+	(label "poty2"
+		(at 342.9 139.7 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "e495a12e-54b1-483d-ac29-03262e5f93ed")
 	)
 	(label "fire1"
 		(at 208.534 50.8 0)
@@ -27608,6 +28066,354 @@
 			(project "Raemixx500"
 				(path "/a9c87613-fb8b-4be0-8e87-0d76f8b56421/00000000-0000-0000-0000-00005d2dc3a1"
 					(reference "Q921")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:D_Zener_Dual_CommonAnode_KKA_Parallel")
+		(at 312.42 127 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "3bf1d74d-c6af-4a34-9572-974679de1c41")
+		(property "Reference" "D400"
+			(at 312.3565 118.618 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SM05"
+			(at 312.3565 121.158 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Raemixx500:SOT-23_Handsoldering_NoSilk"
+			(at 313.69 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.diodes.com/datasheet/download/SM05.pdf"
+			(at 313.69 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Dual TVS"
+			(at 312.42 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "fe6c2ba3-6b69-4ec1-88e5-9aae2de3af02")
+		)
+		(pin "3"
+			(uuid "d509c900-2d32-4f23-a1b3-045ead72f96d")
+		)
+		(pin "2"
+			(uuid "9c2f436c-5550-4758-9697-c65c2b342a14")
+		)
+		(instances
+			(project ""
+				(path "/a9c87613-fb8b-4be0-8e87-0d76f8b56421/00000000-0000-0000-0000-00005d2dc3a1"
+					(reference "D400")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:D_Zener_Dual_CommonAnode_KKA_Parallel")
+		(at 312.42 142.24 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "48a2502d-57a7-4a9c-84ca-1e1e49911831")
+		(property "Reference" "D401"
+			(at 312.3565 133.858 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SM05"
+			(at 312.3565 136.398 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Raemixx500:SOT-23_Handsoldering_NoSilk"
+			(at 313.69 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.diodes.com/datasheet/download/SM05.pdf"
+			(at 313.69 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Dual TVS"
+			(at 312.42 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "15c4925d-15a2-4285-a65b-4d8b9327983c")
+		)
+		(pin "3"
+			(uuid "0b844471-4559-4454-8da7-7295cfb7e4a5")
+		)
+		(pin "2"
+			(uuid "b4a65fc1-297d-47b8-a23f-c2883bbbded9")
+		)
+		(instances
+			(project "Raemixx500"
+				(path "/a9c87613-fb8b-4be0-8e87-0d76f8b56421/00000000-0000-0000-0000-00005d2dc3a1"
+					(reference "D401")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:D_Zener_Dual_CommonAnode_KKA_Parallel")
+		(at 327.66 142.24 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "77522ac5-6ab4-41a9-9427-5834bda010a1")
+		(property "Reference" "D403"
+			(at 327.7235 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SM05"
+			(at 327.7235 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Raemixx500:SOT-23_Handsoldering_NoSilk"
+			(at 326.39 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.diodes.com/datasheet/download/SM05.pdf"
+			(at 326.39 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Dual TVS"
+			(at 327.66 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "0ad0a66c-4936-4511-afd3-31dfa18270d5")
+		)
+		(pin "3"
+			(uuid "61283dd4-352a-418d-9cac-fd1e3c97ac6a")
+		)
+		(pin "2"
+			(uuid "ec38333b-3ee5-4c49-98fe-e05f8fce154a")
+		)
+		(instances
+			(project "Raemixx500"
+				(path "/a9c87613-fb8b-4be0-8e87-0d76f8b56421/00000000-0000-0000-0000-00005d2dc3a1"
+					(reference "D403")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:D_Zener_Dual_CommonAnode_KKA_Parallel")
+		(at 327.66 127 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "c470b076-3362-486d-bdfe-aff4256c6ab8")
+		(property "Reference" "D402"
+			(at 327.7235 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SM05"
+			(at 327.7235 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Raemixx500:SOT-23_Handsoldering_NoSilk"
+			(at 326.39 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.diodes.com/datasheet/download/SM05.pdf"
+			(at 326.39 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Dual TVS"
+			(at 327.66 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "1c8913f3-3d9c-4ab9-b66e-e5766a6c19ad")
+		)
+		(pin "3"
+			(uuid "63b8ae94-a9ae-4eb2-b8bd-12f73f5e6f96")
+		)
+		(pin "2"
+			(uuid "c042f6d7-2028-4219-88dc-bc1df09140ce")
+		)
+		(instances
+			(project "Raemixx500"
+				(path "/a9c87613-fb8b-4be0-8e87-0d76f8b56421/00000000-0000-0000-0000-00005d2dc3a1"
+					(reference "D402")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 320.04 147.32 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "d56ba990-b7cb-4a8d-80d7-fd33f7ba0679")
+		(property "Reference" "#PWR0400"
+			(at 320.04 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 320.167 151.7142 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 320.04 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 320.04 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 320.04 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "b54b8684-8476-4bc3-bc72-266ebdfaadea")
+		)
+		(instances
+			(project "Raemixx500"
+				(path "/a9c87613-fb8b-4be0-8e87-0d76f8b56421/00000000-0000-0000-0000-00005d2dc3a1"
+					(reference "#PWR0400")
 					(unit 1)
 				)
 			)
