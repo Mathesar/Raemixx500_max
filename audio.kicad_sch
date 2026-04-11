@@ -16665,7 +16665,7 @@
 		(at 143.383 61.976 270)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005d355fa7")
@@ -21912,7 +21912,7 @@
 				)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "10K"
 			(at 211.074 223.901 90)
 			(effects
 				(font
@@ -21978,7 +21978,7 @@
 				)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "10K"
 			(at 225.171 223.901 90)
 			(effects
 				(font
@@ -24316,7 +24316,7 @@
 				)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "10K"
 			(at 211.074 178.308 90)
 			(effects
 				(font
@@ -24382,7 +24382,7 @@
 				)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "10K"
 			(at 225.171 178.308 90)
 			(effects
 				(font
@@ -26050,7 +26050,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "10K"
 			(at 130.429 259.08 90)
 			(effects
 				(font
@@ -26117,7 +26117,7 @@
 				)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "10K"
 			(at 110.109 235.839 90)
 			(effects
 				(font
@@ -26765,7 +26765,7 @@
 		(at 286.004 214.376 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005e55f219")
@@ -26859,7 +26859,7 @@
 		(at 156.21 163.957 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005e5bd1db")
@@ -26965,7 +26965,7 @@
 				)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "10K"
 			(at 168.656 163.957 90)
 			(effects
 				(font

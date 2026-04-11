@@ -5733,7 +5733,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "00000000-0000-0000-0000-00005d6d64eb")
 		(property "Reference" "RP107"
 			(at 87.376 87.503 90)
@@ -5824,7 +5824,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "00000000-0000-0000-0000-00005d6d7ad8")
 		(property "Reference" "RP106"
 			(at 87.122 64.897 90)
@@ -5914,7 +5914,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "00000000-0000-0000-0000-00005d6db666")
 		(property "Reference" "RP105"
 			(at 87.249 41.783 90)
@@ -6132,7 +6132,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "00000000-0000-0000-0000-00005d6e5956")
 		(property "Reference" "RP108"
 			(at 167.132 41.783 90)
@@ -6222,7 +6222,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "00000000-0000-0000-0000-00005d6e5ac0")
 		(property "Reference" "RP110"
 			(at 167.132 77.216 90)
@@ -6440,7 +6440,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "00000000-0000-0000-0000-00005d6f5285")
 		(property "Reference" "RP109"
 			(at 253.492 41.91 90)
@@ -6530,7 +6530,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "00000000-0000-0000-0000-00005d6f528b")
 		(property "Reference" "RP111"
 			(at 253.492 77.47 90)
@@ -6694,7 +6694,7 @@
 				)
 			)
 		)
-		(property "Value" "4.7k"
+		(property "Value" "4.7K"
 			(at 98.933 130.556 90)
 			(effects
 				(font
@@ -7120,7 +7120,7 @@
 				)
 			)
 		)
-		(property "Value" "4.7k"
+		(property "Value" "4.7K"
 			(at 167.005 130.81 90)
 			(effects
 				(font
