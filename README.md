@@ -1,5 +1,10 @@
-# Rämixx500_Max
+# Rämixx500_MAX
+
+Rämixx500_MAX is an Open Hardware enhanced remake of the Commodore Amiga 500+ mainboard, revision 8A.1. It's main feature is more RAM in the form of an 72pins 4Meg SIMM module that gives the Rämixx500_MAX 2Meg CHIP + 1.5Meg SLOW ram.
+
 **This is work in progress.**
+**Therefore, this design may NOT work**
+**Do not build or fork this just yet**
 
 **Here follows the original readme from Sukkopera:**
 
@@ -112,4 +117,5 @@ If you think PCBWay is too expensive, just generate the Gerber files in KiCad (i
 - [Szabó Zoltán](https://twitter.com/DeGenTd) for designing the board logo.
 - [Workshopshed](https://twitter.com/Workshopshed) for the 3D models of the EMI filters.
 - [StormTrooper](https://github.com/StormTrooper/Commodore-Plus4) for a few other 3D models, taken from his Plus/4 remake.
+
 
