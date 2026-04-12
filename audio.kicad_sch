@@ -15283,6 +15283,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser" ""
+			(at 79.375 143.637 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "26"
 			(uuid "ead3bb31-90d4-471e-b15a-4de7cfa82660")
 		)
@@ -15636,6 +15645,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser" ""
+			(at 109.982 204.978 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f4455997-8ff5-4245-9482-0fb0ad641d5b")
 		)
@@ -15703,6 +15721,33 @@
 			)
 		)
 		(property "Section" "JOYSTICK"
+			(at 222.885 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" "523-L17HTNEP4F1C "
+			(at 222.885 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG Name" "AMPHENOL"
+			(at 222.885 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG Part Num" "L17HTNEP4F1C "
 			(at 222.885 58.42 0)
 			(effects
 				(font
@@ -15812,7 +15857,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFG Name" "AVX"
+		(property "MFG Name" "KEMET"
 			(at 202.819 76.2 0)
 			(effects
 				(font
@@ -15821,8 +15866,17 @@
 				(hide yes)
 			)
 		)
-		(property "MFG Part Num" "SA101C102KAR"
+		(property "MFG Part Num" "C410C102M5R5TA7200 "
 			(at 202.819 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" "80-C410C102M5R-TR"
+			(at 202.819 76.2 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15907,7 +15961,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFG Name" "AVX"
+		(property "MFG Name" "KEMET"
 			(at 208.534 76.2 0)
 			(effects
 				(font
@@ -15916,8 +15970,17 @@
 				(hide yes)
 			)
 		)
-		(property "MFG Part Num" "SA101C102KAR"
+		(property "MFG Part Num" "C410C102M5R5TA7200 "
 			(at 208.534 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" "80-C410C102M5R-TR"
+			(at 208.534 76.2 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16002,7 +16065,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFG Name" "AVX"
+		(property "MFG Name" "KEMET"
 			(at 214.249 76.2 0)
 			(effects
 				(font
@@ -16011,8 +16074,17 @@
 				(hide yes)
 			)
 		)
-		(property "MFG Part Num" "SA101C102KAR"
+		(property "MFG Part Num" "C410C102M5R5TA7200 "
 			(at 214.249 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" "80-C410C102M5R-TR"
+			(at 214.249 76.2 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16186,6 +16258,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser" ""
+			(at 180.086 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "5759ca75-d0c9-429a-8507-8713b3a420cc")
 		)
@@ -16300,6 +16381,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser" ""
+			(at 189.357 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "d6e7b9a2-b2e2-4948-adad-33b980ab6dbb")
 		)
@@ -16397,6 +16487,15 @@
 			)
 		)
 		(property "MFG Part Num" "DSS1NB32A471Q91A"
+			(at 180.086 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" ""
 			(at 180.086 68.58 0)
 			(effects
 				(font
@@ -16510,6 +16609,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser" ""
+			(at 192.532 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "63a30522-b357-4e60-bff5-c55ffa6d2670")
 		)
@@ -16579,6 +16687,15 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Mouser" ""
+			(at 168.275 42.164 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "2"
@@ -16741,6 +16858,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser" ""
+			(at 143.383 61.976 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "521506e0-6c87-4243-b25d-abe331d870e0")
 		)
@@ -16811,6 +16937,33 @@
 			)
 		)
 		(property "Section" "JOYSTICK"
+			(at 222.885 115.062 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" "523-L17HTNEP4F1C "
+			(at 222.885 115.062 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG Name" "AMPHENOL"
+			(at 222.885 115.062 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG Part Num" "L17HTNEP4F1C "
 			(at 222.885 115.062 0)
 			(effects
 				(font
@@ -16920,7 +17073,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFG Name" "AVX"
+		(property "MFG Name" "KEMET"
 			(at 202.819 132.842 0)
 			(effects
 				(font
@@ -16929,8 +17082,17 @@
 				(hide yes)
 			)
 		)
-		(property "MFG Part Num" "SA101C102KAR"
+		(property "MFG Part Num" "C410C102M5R5TA7200 "
 			(at 202.819 132.842 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" "80-C410C102M5R-TR"
+			(at 202.819 132.842 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17015,7 +17177,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFG Name" "AVX"
+		(property "MFG Name" "KEMET"
 			(at 208.534 132.842 0)
 			(effects
 				(font
@@ -17024,8 +17186,17 @@
 				(hide yes)
 			)
 		)
-		(property "MFG Part Num" "SA101C102KAR"
+		(property "MFG Part Num" "C410C102M5R5TA7200 "
 			(at 208.534 132.842 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" "80-C410C102M5R-TR"
+			(at 208.534 132.842 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17110,7 +17281,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFG Name" "AVX"
+		(property "MFG Name" "KEMET"
 			(at 214.249 132.842 0)
 			(effects
 				(font
@@ -17119,8 +17290,17 @@
 				(hide yes)
 			)
 		)
-		(property "MFG Part Num" "SA101C102KAR"
+		(property "MFG Part Num" "C410C102M5R5TA7200 "
 			(at 214.249 132.842 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" "80-C410C102M5R-TR"
+			(at 214.249 132.842 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17222,6 +17402,15 @@
 			)
 		)
 		(property "MFG Part Num" "DSS1NB32A471Q91A"
+			(at 180.086 107.823 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" ""
 			(at 180.086 107.823 0)
 			(effects
 				(font
@@ -17344,6 +17533,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser" ""
+			(at 189.357 115.062 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "33385a4b-0c8e-48d1-abb9-7c3ed2b13b92")
 		)
@@ -17441,6 +17639,15 @@
 			)
 		)
 		(property "MFG Part Num" "DSS1NB32A471Q91A"
+			(at 180.086 125.222 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" ""
 			(at 180.086 125.222 0)
 			(effects
 				(font
@@ -17554,6 +17761,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser" ""
+			(at 192.532 131.826 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "0c0d895c-ec0b-420b-bf71-72cc2c746f58")
 		)
@@ -17623,6 +17839,15 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Mouser" ""
+			(at 168.275 98.806 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "2"
@@ -17801,6 +18026,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser" ""
+			(at 244.983 42.799 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "02c9bae4-831e-4641-950b-cacfb7f58684")
 		)
@@ -17908,6 +18142,15 @@
 			)
 		)
 		(property "MFG Part Num" "DSS1NB32A682Q91A"
+			(at 244.983 53.721 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" ""
 			(at 244.983 53.721 0)
 			(effects
 				(font
@@ -18031,6 +18274,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser" ""
+			(at 244.983 63.881 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "5f9b3bd4-3215-4278-9b01-b73fe2874e95")
 		)
@@ -18146,6 +18398,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser" ""
+			(at 244.983 74.549 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "72e556de-77a4-47f0-a300-12ecd361a159")
 		)
@@ -18243,6 +18504,15 @@
 			)
 		)
 		(property "MFG Part Num" "SN74HCT157NE4"
+			(at 316.357 85.725 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" ""
 			(at 316.357 85.725 0)
 			(effects
 				(font
@@ -18405,6 +18675,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser" ""
+			(at 244.983 99.441 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "1f0133ee-2770-41d2-b3ba-2f35988a9821")
 		)
@@ -18512,6 +18791,15 @@
 			)
 		)
 		(property "MFG Part Num" "DSS1NB32A682Q91A"
+			(at 244.983 110.363 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" ""
 			(at 244.983 110.363 0)
 			(effects
 				(font
@@ -18635,6 +18923,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser" ""
+			(at 244.983 120.523 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "fecd0508-4d44-401c-8161-6920039c32b9")
 		)
@@ -18742,6 +19039,15 @@
 			)
 		)
 		(property "MFG Part Num" "DSS1NB32A682Q91A"
+			(at 244.983 131.191 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" ""
 			(at 244.983 131.191 0)
 			(effects
 				(font
@@ -19023,6 +19329,15 @@
 			)
 		)
 		(property "Required" "Y"
+			(at 28.575 54.864 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" ""
 			(at 28.575 54.864 0)
 			(effects
 				(font
@@ -19399,6 +19714,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser" ""
+			(at 340.868 68.072 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "d3b3a435-b0fa-4250-aad0-62668295b12b")
 		)
@@ -19496,6 +19820,15 @@
 			)
 		)
 		(property "MFG Part Num" "DSS1NB32A471Q91A"
+			(at 340.868 78.994 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" ""
 			(at 340.868 78.994 0)
 			(effects
 				(font
@@ -19609,6 +19942,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser" ""
+			(at 340.868 89.154 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "26176d60-1001-48e0-bfa5-ac087d9c5b23")
 		)
@@ -19706,6 +20048,15 @@
 			)
 		)
 		(property "MFG Part Num" "DSS1NB32A471Q91A"
+			(at 340.868 99.822 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" ""
 			(at 340.868 99.822 0)
 			(effects
 				(font
@@ -19885,6 +20236,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser" ""
+			(at 32.766 246.507 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "11"
 			(uuid "9c08ff65-f129-49e2-9511-e7cc992d9535")
 		)
@@ -19990,6 +20350,15 @@
 			)
 		)
 		(property "Required" "Y"
+			(at 28.575 32.385 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" ""
 			(at 28.575 32.385 0)
 			(effects
 				(font
@@ -20128,6 +20497,15 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Mouser" ""
+			(at 287.528 57.531 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -20295,7 +20673,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFG Part Num" "C412C334M5U5TA"
+		(property "MFG Part Num" "C440C334K5R5TA7200"
 			(at 46.355 53.721 0)
 			(effects
 				(font
@@ -20314,6 +20692,15 @@
 			)
 		)
 		(property "Required" "R"
+			(at 46.355 53.721 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" "80-C440C334K5R-TR "
 			(at 46.355 53.721 0)
 			(effects
 				(font
@@ -20394,6 +20781,15 @@
 		)
 		(property "Required" "Y"
 			(at 68.453 38.481 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" ""
+			(at 68.453 38.481 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20491,7 +20887,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFG Part Num" "EEUFR1C102"
+		(property "MFG Part Num" "ECA-1EM102 "
 			(at 57.023 53.721 0)
 			(effects
 				(font
@@ -20501,6 +20897,15 @@
 			)
 		)
 		(property "Required" "R"
+			(at 57.023 53.721 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" "667-ECA-1EM102 "
 			(at 57.023 53.721 0)
 			(effects
 				(font
@@ -20663,8 +21068,17 @@
 				(hide yes)
 			)
 		)
-		(property "MFG Part Num" "C410C473M5U5TA"
+		(property "MFG Part Num" "C410C473M5R5TA7200 "
 			(at 126.238 133.604 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" "80-C410C473M5R-TR "
+			(at 126.238 133.604 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20758,8 +21172,17 @@
 				(hide yes)
 			)
 		)
-		(property "MFG Part Num" "C410C473M5U5TA"
+		(property "MFG Part Num" "C410C473M5R5TA7200 "
 			(at 131.953 133.604 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" "80-C410C473M5R-TR "
+			(at 131.953 133.604 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20853,8 +21276,17 @@
 				(hide yes)
 			)
 		)
-		(property "MFG Part Num" "C410C473M5U5TA"
+		(property "MFG Part Num" "C410C473M5R5TA7200 "
 			(at 137.668 133.604 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" "80-C410C473M5R-TR "
+			(at 137.668 133.604 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20948,8 +21380,17 @@
 				(hide yes)
 			)
 		)
-		(property "MFG Part Num" "C410C473M5U5TA"
+		(property "MFG Part Num" "C410C473M5R5TA7200 "
 			(at 143.383 133.604 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" "80-C410C473M5R-TR "
+			(at 143.383 133.604 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21051,6 +21492,15 @@
 			)
 		)
 		(property "MFG Part Num" "LF347N ???"
+			(at 242.951 226.441 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" ""
 			(at 242.951 226.441 0)
 			(effects
 				(font
@@ -21189,6 +21639,15 @@
 			)
 		)
 		(property "MFG Part Num" "LF347N ???"
+			(at 242.951 180.848 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" ""
 			(at 242.951 180.848 0)
 			(effects
 				(font
@@ -21336,6 +21795,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser" ""
+			(at 193.421 178.308 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "c1a29451-e682-4eda-9527-22ffed39c68e")
 		)
@@ -21467,6 +21935,15 @@
 			)
 		)
 		(property "MFG Part Num" "LF347N ???"
+			(at 193.421 223.901 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" ""
 			(at 193.421 223.901 0)
 			(effects
 				(font
@@ -21613,6 +22090,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser" ""
+			(at 160.274 178.308 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "d2119b1b-5c8a-4816-8576-37418d1b5315")
 		)
@@ -21718,6 +22204,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser" ""
+			(at 160.274 223.901 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "6cfde942-6d18-4c86-bd66-a099fc8dc9f1")
 		)
@@ -21785,6 +22280,15 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Mouser" ""
+			(at 193.421 215.011 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -21862,7 +22366,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFG Name" "AVX"
+		(property "MFG Name" "VISHAY"
 			(at 193.421 209.55 0)
 			(effects
 				(font
@@ -21871,8 +22375,17 @@
 				(hide yes)
 			)
 		)
-		(property "MFG Part Num" "SA115C104KAR"
+		(property "MFG Part Num" "A104K15X7RF5TAA "
 			(at 193.421 209.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" "594-A104K15X7RF5TAA "
+			(at 193.421 209.55 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21946,6 +22459,15 @@
 				)
 			)
 		)
+		(property "Mouser" ""
+			(at 211.074 223.901 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "b12bd1d5-81f3-489a-87c0-edad58cb431d")
 		)
@@ -22010,6 +22532,15 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Mouser" ""
+			(at 225.171 223.901 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "2"
@@ -22078,7 +22609,7 @@
 				)
 			)
 		)
-		(property "MFG Part Num" "C430C682J5G5TA"
+		(property "MFG Part Num" "C410C682K2R5TA7200 "
 			(at 217.805 217.043 0)
 			(effects
 				(font
@@ -22089,6 +22620,15 @@
 		)
 		(property "MFG Name" "KEMET"
 			(at 217.805 217.043 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" "80-C410C682K2R5TATU "
+			(at 217.805 217.043 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22235,6 +22775,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser" ""
+			(at 79.883 53.721 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "feb6dd5b-2afd-4965-95f1-ce4a928c9116")
 		)
@@ -22314,7 +22863,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFG Part Num" "C412C334M5U5TA"
+		(property "MFG Part Num" "C440C334K5R5TA7200"
 			(at 266.065 223.266 0)
 			(effects
 				(font
@@ -22325,6 +22874,15 @@
 		)
 		(property "Cost" "0.078"
 			(at 266.065 223.266 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" "80-C440C334K5R-TR "
+			(at 266.065 223.266 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22416,8 +22974,17 @@
 				(hide yes)
 			)
 		)
-		(property "MFG Part Num" "EEUFR1H220"
+		(property "MFG Part Num" "ECA-1EM220B "
 			(at 266.065 229.489 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" "667-ECA-1EM220B "
+			(at 266.065 229.489 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22502,7 +23069,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFG Part Num" "C412C334M5U5TA"
+		(property "MFG Part Num" "C440C334K5R5TA7200"
 			(at 97.663 53.721 0)
 			(effects
 				(font
@@ -22521,6 +23088,15 @@
 			)
 		)
 		(property "Required" "R"
+			(at 97.663 53.721 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" "80-C440C334K5R-TR "
 			(at 97.663 53.721 0)
 			(effects
 				(font
@@ -22619,7 +23195,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFG Part Num" "EEUFR1H100"
+		(property "MFG Part Num" "ECA-1EM100I "
 			(at 108.331 53.721 0)
 			(effects
 				(font
@@ -22629,6 +23205,15 @@
 			)
 		)
 		(property "Required" "R"
+			(at 108.331 53.721 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" "667-ECA-1EM100I "
 			(at 108.331 53.721 0)
 			(effects
 				(font
@@ -22771,6 +23356,15 @@
 				)
 			)
 		)
+		(property "Mouser" ""
+			(at 283.718 226.441 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "bdbdc8df-a51b-415e-9b91-5291c7b18ea7")
 		)
@@ -22837,6 +23431,15 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Mouser" ""
+			(at 292.481 233.045 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "2"
@@ -22933,6 +23536,15 @@
 			)
 		)
 		(property "MFG Part Num" "DSS1NB32A682Q91A"
+			(at 305.308 228.981 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" ""
 			(at 305.308 228.981 0)
 			(effects
 				(font
@@ -23138,6 +23750,15 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Mouser" ""
+			(at 30.226 231.775 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "2"
@@ -23400,6 +24021,15 @@
 				)
 			)
 		)
+		(property "Mouser" ""
+			(at 30.226 261.366 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "fad40fd1-5a32-4508-8f1e-3f67cbf56f95")
 		)
@@ -23605,7 +24235,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFG Part Num" "C412C334M5U5TA"
+		(property "MFG Part Num" "C440C334K5R5TA7200"
 			(at 41.656 241.681 0)
 			(effects
 				(font
@@ -23615,6 +24245,15 @@
 			)
 		)
 		(property "Cost" "0.078"
+			(at 41.656 241.681 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" "80-C440C334K5R-TR "
 			(at 41.656 241.681 0)
 			(effects
 				(font
@@ -23713,7 +24352,16 @@
 				(hide yes)
 			)
 		)
-		(property "MFG Part Num" "EEUFR1H220"
+		(property "MFG Part Num" "ECA-1EM220I "
+			(at 52.324 241.681 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" "667-ECA-1EM220I "
 			(at 52.324 241.681 0)
 			(effects
 				(font
@@ -23803,7 +24451,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFG Part Num" "C412C334M5U5TA"
+		(property "MFG Part Num" "C440C334K5R5TA7200"
 			(at 41.656 251.46 0)
 			(effects
 				(font
@@ -23813,6 +24461,15 @@
 			)
 		)
 		(property "Cost" "0.078"
+			(at 41.656 251.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" "80-C440C334K5R-TR "
 			(at 41.656 251.46 0)
 			(effects
 				(font
@@ -23911,7 +24568,16 @@
 				(hide yes)
 			)
 		)
-		(property "MFG Part Num" "EEUFR1H220"
+		(property "MFG Part Num" "ECA-1EM220I "
+			(at 52.324 251.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" "667-ECA-1EM220I "
 			(at 52.324 251.46 0)
 			(effects
 				(font
@@ -23990,6 +24656,15 @@
 				)
 			)
 		)
+		(property "Mouser" ""
+			(at 218.059 236.855 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "e184d211-937f-4c2a-a9b5-2fd5e6d5c420")
 		)
@@ -24059,6 +24734,15 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Mouser" ""
+			(at 210.693 251.46 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "2"
@@ -24191,6 +24875,15 @@
 				)
 			)
 		)
+		(property "Mouser" ""
+			(at 193.421 169.418 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "3e7a4127-5e7e-4a83-868e-9344827a6175")
 		)
@@ -24266,7 +24959,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFG Name" "AVX"
+		(property "MFG Name" "VISHAY"
 			(at 193.421 163.957 0)
 			(effects
 				(font
@@ -24275,8 +24968,17 @@
 				(hide yes)
 			)
 		)
-		(property "MFG Part Num" "SA115C104KAR"
+		(property "MFG Part Num" "A104K15X7RF5TAA "
 			(at 193.421 163.957 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" "594-A104K15X7RF5TAA "
+			(at 193.421 163.957 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24350,6 +25052,15 @@
 				)
 			)
 		)
+		(property "Mouser" ""
+			(at 211.074 178.308 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "1388d84d-6316-4075-a733-787999c6cfbe")
 		)
@@ -24414,6 +25125,15 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Mouser" ""
+			(at 225.171 178.308 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -24482,7 +25202,7 @@
 				)
 			)
 		)
-		(property "MFG Part Num" "C430C682J5G5TA"
+		(property "MFG Part Num" "C410C682K2R5TA7200 "
 			(at 217.805 171.45 0)
 			(effects
 				(font
@@ -24493,6 +25213,15 @@
 		)
 		(property "MFG Name" "KEMET"
 			(at 217.805 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" "80-C410C682K2R5TATU "
+			(at 217.805 171.45 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24575,7 +25304,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFG Part Num" "C412C334M5U5TA"
+		(property "MFG Part Num" "C440C334K5R5TA7200"
 			(at 266.065 177.673 0)
 			(effects
 				(font
@@ -24586,6 +25315,15 @@
 		)
 		(property "Cost" "0.078"
 			(at 266.065 177.673 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" "80-C440C334K5R-TR "
+			(at 266.065 177.673 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24677,8 +25415,17 @@
 				(hide yes)
 			)
 		)
-		(property "MFG Part Num" "EEUFR1H220"
+		(property "MFG Part Num" "ECA-1EM220B "
 			(at 266.065 183.896 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" "667-ECA-1EM220B "
+			(at 266.065 183.896 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24752,6 +25499,15 @@
 				)
 			)
 		)
+		(property "Mouser" ""
+			(at 283.718 180.848 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "15b84c68-ced4-4b1d-848d-7198ac33a026")
 		)
@@ -24818,6 +25574,15 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Mouser" ""
+			(at 292.481 187.452 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -24914,6 +25679,15 @@
 			)
 		)
 		(property "MFG Part Num" "DSS1NB32A682Q91A"
+			(at 305.308 183.388 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" ""
 			(at 305.308 183.388 0)
 			(effects
 				(font
@@ -25183,6 +25957,15 @@
 				)
 			)
 		)
+		(property "Mouser" ""
+			(at 218.059 191.262 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "75a7e310-cc6b-48db-ae90-a2f9a14b8116")
 		)
@@ -25252,6 +26035,15 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Mouser" ""
+			(at 210.693 202.946 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -25384,8 +26176,26 @@
 				)
 			)
 		)
-		(property "MFG Name" "N/A"
+		(property "MFG Name" "KEMET"
 			(at 230.886 240.792 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" "80-C410C392K1R "
+			(at 230.886 240.792 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG Part Num" "C410C392K1R5TA "
+			(at 230.886 240.792 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25523,8 +26333,26 @@
 				)
 			)
 		)
-		(property "MFG Name" "N/A"
+		(property "MFG Name" "KEMET"
 			(at 230.886 195.199 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" "80-C410C392K1R "
+			(at 230.886 195.199 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG Part Num" "C410C392K1R5TA "
+			(at 230.886 195.199 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25863,7 +26691,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFG Part Num" "C410C103K1H5TAAUTO"
+		(property "MFG Part Num" "C410C103K1R5TA "
 			(at 172.72 258.191 0)
 			(effects
 				(font
@@ -25874,6 +26702,15 @@
 		)
 		(property "Cost" "0.071"
 			(at 172.72 258.191 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" "80-C410C103K1R"
+			(at 172.72 258.191 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26014,6 +26851,15 @@
 				)
 			)
 		)
+		(property "Mouser" ""
+			(at 127.889 235.839 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "e2c96f10-b33e-45f6-ab05-49d1bd7b64d7")
 		)
@@ -26085,6 +26931,15 @@
 				)
 			)
 		)
+		(property "Mouser" ""
+			(at 130.429 257.175 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "12b80b59-3b01-4fb5-86fd-4142ace4dc40")
 		)
@@ -26149,6 +27004,15 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Mouser" ""
+			(at 110.109 235.839 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "2"
@@ -26217,6 +27081,15 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Mouser" ""
+			(at 108.966 164.973 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -26513,6 +27386,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser" ""
+			(at 97.409 235.839 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "10"
 			(uuid "c9b0e564-1e27-4e3d-97ce-804e6f399b31")
 		)
@@ -26745,6 +27627,15 @@
 				)
 			)
 		)
+		(property "Mouser" ""
+			(at 118.618 228.346 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "316619df-905b-4ad9-a03f-8909a0905868")
 		)
@@ -26831,6 +27722,15 @@
 			)
 		)
 		(property "Section" "JMP"
+			(at 286.004 214.376 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" ""
 			(at 286.004 214.376 0)
 			(effects
 				(font
@@ -26933,6 +27833,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser" ""
+			(at 156.21 163.957 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "9af66489-1a34-45c5-879b-54ddf01e4d20")
 		)
@@ -26997,6 +27906,15 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Mouser" ""
+			(at 168.656 163.957 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "2"
@@ -27095,6 +28013,15 @@
 			)
 		)
 		(property "MFG Part Num" "SN74HCT157NE4"
+			(at 378.46 84.963 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" ""
 			(at 378.46 84.963 0)
 			(effects
 				(font
@@ -27222,7 +28149,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFG Part Num" "C410C103K1H5TAAUTO"
+		(property "MFG Part Num" "C410C103K1R5TA "
 			(at 398.145 84.201 0)
 			(effects
 				(font
@@ -27232,6 +28159,15 @@
 			)
 		)
 		(property "Cost" "0.071"
+			(at 398.145 84.201 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" "80-C410C103K1R"
 			(at 398.145 84.201 0)
 			(effects
 				(font
@@ -27735,6 +28671,33 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser" "502-PJRAN1X1U01AUX"
+			(at 329.311 185.928 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG Name" "SWITCHCRAFT"
+			(at 329.311 185.928 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG Part Num" "PJRAN1X1U01AUX "
+			(at 329.311 185.928 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "2c585c15-a873-4cc5-8618-b4c0630953bb")
 		)
@@ -27841,6 +28804,33 @@
 			)
 		)
 		(property "Section" "AUDIO"
+			(at 329.311 231.521 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" "502-PJRAN1X1U01AUX"
+			(at 329.311 231.521 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG Name" "SWITCHCRAFT"
+			(at 329.311 231.521 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG Part Num" "PJRAN1X1U01AUX "
 			(at 329.311 231.521 0)
 			(effects
 				(font
@@ -27983,6 +28973,15 @@
 				)
 			)
 		)
+		(property "Mouser" ""
+			(at 197.231 191.262 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "463c05c8-9172-4c5b-a821-13e37f9f1294")
 		)
@@ -28053,6 +29052,15 @@
 				)
 			)
 		)
+		(property "Mouser" ""
+			(at 197.231 236.855 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "6fa11e35-0c26-4965-853a-18c3c0faf35f")
 		)
@@ -28116,6 +29124,15 @@
 			)
 		)
 		(property "Description" "Dual TVS"
+			(at 312.42 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" ""
 			(at 312.42 127 0)
 			(effects
 				(font
@@ -28195,6 +29212,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser" ""
+			(at 312.42 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "15c4925d-15a2-4285-a65b-4d8b9327983c")
 		)
@@ -28266,6 +29292,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser" ""
+			(at 327.66 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "0ad0a66c-4936-4511-afd3-31dfa18270d5")
 		)
@@ -28329,6 +29364,15 @@
 			)
 		)
 		(property "Description" "Dual TVS"
+			(at 327.66 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" ""
 			(at 327.66 127 0)
 			(effects
 				(font

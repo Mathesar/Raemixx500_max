@@ -3307,6 +3307,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser" ""
+			(at 155.194 121.158 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "5b3c2b15-e0a0-412c-9d4a-e8aa03374216")
 		)
@@ -3389,6 +3398,15 @@
 			)
 		)
 		(property "EMI_FILTER_TYPE" "C"
+			(at 166.37 121.412 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" ""
 			(at 166.37 121.412 0)
 			(effects
 				(font
@@ -3487,6 +3505,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser" ""
+			(at 177.546 121.412 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "52221b0a-df5c-4a29-9b78-3aa42c12a751")
 		)
@@ -3569,6 +3596,15 @@
 			)
 		)
 		(property "EMI_FILTER_TYPE" "C"
+			(at 188.722 121.666 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" ""
 			(at 188.722 121.666 0)
 			(effects
 				(font
@@ -3667,6 +3703,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser" ""
+			(at 199.898 121.666 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "3bcf2290-0c9b-4cf5-8b81-acc670eb0bbb")
 		)
@@ -3749,6 +3794,15 @@
 			)
 		)
 		(property "EMI_FILTER_TYPE" "C"
+			(at 50.8 120.904 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" ""
 			(at 50.8 120.904 0)
 			(effects
 				(font
@@ -3847,6 +3901,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser" ""
+			(at 61.976 121.158 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "4822dfee-1a1b-4119-8234-be101ca8594e")
 		)
@@ -3929,6 +3992,15 @@
 			)
 		)
 		(property "EMI_FILTER_TYPE" "C"
+			(at 73.152 121.158 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" ""
 			(at 73.152 121.158 0)
 			(effects
 				(font
@@ -4155,6 +4227,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser" ""
+			(at 61.976 172.466 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a4ca7967-db85-4382-b3cd-13b47cc8829a")
 		)
@@ -4237,6 +4318,15 @@
 			)
 		)
 		(property "EMI_FILTER_TYPE" "C"
+			(at 73.152 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" ""
 			(at 73.152 172.72 0)
 			(effects
 				(font
@@ -4408,6 +4498,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser" ""
+			(at 136.906 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "46c16c79-a197-47d6-a345-7ebfafe373d8")
 		)
@@ -4510,6 +4609,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser" ""
+			(at 136.906 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "85fc597e-4f10-4235-aada-e6d178c4fac7")
 		)
@@ -4602,6 +4710,15 @@
 			)
 		)
 		(property "Required" "Y"
+			(at 92.456 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" ""
 			(at 92.456 64.77 0)
 			(effects
 				(font
@@ -4763,6 +4880,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser" ""
+			(at 92.456 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "821e308c-4258-48e6-8576-8c45dc6dba3f")
 		)
@@ -4916,6 +5042,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser" ""
+			(at 92.456 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "5"
 			(uuid "9608ea0e-17db-45b8-9316-4e2efaf994ae")
 		)
@@ -5060,6 +5195,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser" ""
+			(at 133.096 82.55 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "28ba99ae-d2fb-4fea-9b17-aaa77682dcd1")
 		)
@@ -5171,6 +5315,15 @@
 			)
 		)
 		(property "Required" "Y"
+			(at 248.666 95.758 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" ""
 			(at 248.666 95.758 0)
 			(effects
 				(font
@@ -5553,6 +5706,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser" ""
+			(at 246.126 72.898 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "76a54707-6b23-4fd0-ada4-5b2d6c3f237f")
 		)
@@ -5637,7 +5799,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFG Part Num" "C410C103K1H5TAAUTO"
+		(property "MFG Part Num" "C410C103K1R5TA "
 			(at 258.826 98.298 0)
 			(effects
 				(font
@@ -5665,6 +5827,15 @@
 			)
 		)
 		(property "Required" "R"
+			(at 258.826 98.298 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" "80-C410C103K1R"
 			(at 258.826 98.298 0)
 			(effects
 				(font

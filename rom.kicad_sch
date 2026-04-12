@@ -3468,6 +3468,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser" ""
+			(at 168.656 91.313 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "904e6638-b839-451a-9190-daf6f206bc2e")
 		)
@@ -3802,6 +3811,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser" ""
+			(at 244.348 91.313 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "41"
 			(uuid "91702263-42fb-4ad6-a953-faa4c2726698")
 		)
@@ -4127,7 +4145,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFG Part Num" "C412C334M5U5TA"
+		(property "MFG Part Num" "C440C334K5R5TA7200"
 			(at 264.795 90.297 0)
 			(effects
 				(font
@@ -4146,6 +4164,15 @@
 			)
 		)
 		(property "Required" "R"
+			(at 264.795 90.297 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" "80-C440C334K5R-TR "
 			(at 264.795 90.297 0)
 			(effects
 				(font
@@ -4304,7 +4331,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "00000000-0000-0000-0000-00005f631089")
 		(property "Reference" "J91"
 			(at 71.12 60.9092 0)
@@ -4346,6 +4373,15 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Mouser" ""
+			(at 69.85 68.961 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -4504,7 +4540,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "00000000-0000-0000-0000-00005f63d7fd")
 		(property "Reference" "J92"
 			(at 71.12 83.2612 0)
@@ -4546,6 +4582,15 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Mouser" ""
+			(at 69.85 91.313 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "3"
@@ -4704,7 +4749,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "00000000-0000-0000-0000-00005f64035f")
 		(property "Reference" "J93"
 			(at 71.12 105.3592 0)
@@ -4746,6 +4791,15 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Mouser" ""
+			(at 69.85 113.411 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"

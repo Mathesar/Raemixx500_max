@@ -5696,6 +5696,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser" ""
+			(at 145.161 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "1969baf0-b4bb-4b7b-a63e-dd8d5a2d81fe")
 		)
@@ -6183,6 +6192,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser" ""
+			(at 197.231 25.908 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "e874122a-af75-413c-bd41-0c45a3822870")
 		)
@@ -6293,6 +6311,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser" ""
+			(at 197.231 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "5b7bc760-831f-43a2-b180-5ac455d4b0ae")
 		)
@@ -6395,6 +6422,15 @@
 			)
 		)
 		(property "MFG Part Num" "DSS1NB32A103Q91A"
+			(at 197.231 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" ""
 			(at 197.231 50.8 0)
 			(effects
 				(font

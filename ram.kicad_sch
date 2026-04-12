@@ -12212,7 +12212,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFG Part Num" "C412C334M5U5TA"
+		(property "MFG Part Num" "C410C103K1R5TA "
 			(at 311.15 224.663 0)
 			(effects
 				(font
@@ -12240,6 +12240,15 @@
 			)
 		)
 		(property "Required" "R"
+			(at 311.15 224.663 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" "80-C410C103K1R"
 			(at 311.15 224.663 0)
 			(effects
 				(font
@@ -12325,7 +12334,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFG Part Num" "C412C334M5U5TA"
+		(property "MFG Part Num" "C410C103K1R5TA "
 			(at 346.71 224.663 0)
 			(effects
 				(font
@@ -12353,6 +12362,15 @@
 			)
 		)
 		(property "Required" "R"
+			(at 346.71 224.663 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" "80-C410C103K1R"
 			(at 346.71 224.663 0)
 			(effects
 				(font
@@ -12438,7 +12456,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFG Part Num" "C412C334M5U5TA"
+		(property "MFG Part Num" "C440C334K5R5TA7200"
 			(at 278.13 224.79 0)
 			(effects
 				(font
@@ -12466,6 +12484,15 @@
 			)
 		)
 		(property "Required" "R"
+			(at 278.13 224.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" "80-C440C334K5R-TR "
 			(at 278.13 224.79 0)
 			(effects
 				(font
@@ -12551,7 +12578,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFG Part Num" "C412C334M5U5TA"
+		(property "MFG Part Num" "C440C334K5R5TA7200"
 			(at 232.41 224.79 0)
 			(effects
 				(font
@@ -12579,6 +12606,15 @@
 			)
 		)
 		(property "Required" "R"
+			(at 232.41 224.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" "80-C440C334K5R-TR "
 			(at 232.41 224.79 0)
 			(effects
 				(font
@@ -12664,7 +12700,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFG Part Num" "C412C334M5U5TA"
+		(property "MFG Part Num" "C440C334K5R5TA7200"
 			(at 265.43 224.79 0)
 			(effects
 				(font
@@ -12692,6 +12728,15 @@
 			)
 		)
 		(property "Required" "R"
+			(at 265.43 224.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" "80-C440C334K5R-TR "
 			(at 265.43 224.79 0)
 			(effects
 				(font
@@ -12794,6 +12839,15 @@
 			)
 		)
 		(property "MFG Part Num" "SN74LS139AN"
+			(at 139.7 193.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" ""
 			(at 139.7 193.04 0)
 			(effects
 				(font
@@ -12938,6 +12992,15 @@
 			)
 		)
 		(property "MFG Part Num" "SN74LS139AN"
+			(at 139.7 215.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" ""
 			(at 139.7 215.9 0)
 			(effects
 				(font
@@ -13330,6 +13393,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser" ""
+			(at 209.55 48.26 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "ee5da904-b68f-449e-a3bf-803f729dc6b1")
 		)
@@ -13434,6 +13506,15 @@
 			)
 		)
 		(property "Required" "Y"
+			(at 78.74 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" ""
 			(at 78.74 93.98 0)
 			(effects
 				(font
@@ -13581,6 +13662,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser" ""
+			(at 137.16 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "3a8e71c0-f3ff-458b-b9a4-9f5c535cc236")
 		)
@@ -13682,6 +13772,15 @@
 			)
 		)
 		(property "Required" "Y"
+			(at 137.16 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" ""
 			(at 137.16 99.06 0)
 			(effects
 				(font
@@ -13799,6 +13898,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser" ""
+			(at 137.16 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "9584fda7-215a-48f1-ae24-c1842e511474")
 		)
@@ -13885,6 +13993,15 @@
 			)
 		)
 		(property "Description" "72pin SIMM module"
+			(at 247.65 226.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" ""
 			(at 247.65 226.06 0)
 			(effects
 				(font
@@ -14171,6 +14288,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser" ""
+			(at 281.94 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "9"
 			(uuid "8ae1b4a4-28e8-4baa-9deb-3878e9b00a2e")
 		)
@@ -14267,6 +14393,15 @@
 			)
 		)
 		(property "Description" "Quad And2"
+			(at 281.94 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" ""
 			(at 281.94 149.86 0)
 			(effects
 				(font
@@ -14379,6 +14514,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser" ""
+			(at 302.26 170.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "5"
 			(uuid "5898dd2c-9541-4304-8d6a-49b106105dff")
 		)
@@ -14475,6 +14619,15 @@
 			)
 		)
 		(property "Description" "8-bit Bus Buffer 3-State outputs"
+			(at 78.74 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" ""
 			(at 78.74 53.34 0)
 			(effects
 				(font
@@ -14669,6 +14822,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser" ""
+			(at 327.66 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "9"
 			(uuid "8ae1b4a4-28e8-4baa-9deb-3878e9b00a2f")
 		)
@@ -14764,6 +14926,15 @@
 			)
 		)
 		(property "Description" "Quad And2"
+			(at 39.37 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" ""
 			(at 39.37 109.22 0)
 			(effects
 				(font
@@ -15006,6 +15177,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser" ""
+			(at 83.82 195.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "14"
 			(uuid "1454e40d-97c7-46e6-87c2-49a99bcca17a")
 		)
@@ -15104,6 +15284,15 @@
 			)
 		)
 		(property "Description" "Dual D Flip-flop, Set & Reset"
+			(at 293.37 226.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" ""
 			(at 293.37 226.06 0)
 			(effects
 				(font
@@ -15298,6 +15487,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser" ""
+			(at 341.63 167.64 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "e9a3168f-c165-471a-a186-29cce8e00172")
 		)
@@ -15358,6 +15556,15 @@
 			)
 		)
 		(property "Description" "Quad And2"
+			(at 60.96 193.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" ""
 			(at 60.96 193.04 0)
 			(effects
 				(font
@@ -15481,6 +15688,15 @@
 		)
 		(property "Required" "Y"
 			(at 250.19 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" ""
+			(at 250.19 83.82 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15638,6 +15854,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser" ""
+			(at 168.91 220.98 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "95b3e0f0-7c8c-4759-ac93-f8a9c3d1f1c2")
 		)
@@ -15698,6 +15923,15 @@
 			)
 		)
 		(property "Description" "quad 2-input NAND gate"
+			(at 327.66 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" ""
 			(at 327.66 137.16 0)
 			(effects
 				(font
@@ -15821,6 +16055,15 @@
 		)
 		(property "Required" "Y"
 			(at 168.91 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" ""
+			(at 168.91 175.26 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15978,6 +16221,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser" ""
+			(at 209.55 53.34 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "3efc14a4-adc6-4cd9-951b-d3eb1b6342f2")
 		)
@@ -16055,7 +16307,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFG Part Num" "C412C334M5U5TA"
+		(property "MFG Part Num" "C410C103K1R5TA "
 			(at 379.73 224.79 0)
 			(effects
 				(font
@@ -16083,6 +16335,15 @@
 			)
 		)
 		(property "Required" "R"
+			(at 379.73 224.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" "80-C410C103K1R"
 			(at 379.73 224.79 0)
 			(effects
 				(font
@@ -16151,6 +16412,15 @@
 			)
 		)
 		(property "Description" "72pin SIMM module"
+			(at 294.64 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" ""
 			(at 294.64 73.66 0)
 			(effects
 				(font
@@ -16439,6 +16709,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser" ""
+			(at 327.66 226.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "5"
 			(uuid "5898dd2c-9541-4304-8d6a-49b106105e02")
 		)
@@ -16561,6 +16840,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser" ""
+			(at 168.91 198.12 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "f681a90d-6c76-45b6-9870-4ce234acb675")
 		)
@@ -16623,6 +16911,15 @@
 			)
 		)
 		(property "Description" "quad 2-input NAND gate"
+			(at 361.95 226.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" ""
 			(at 361.95 226.06 0)
 			(effects
 				(font
@@ -16757,6 +17054,15 @@
 		)
 		(property "Section" "JMP"
 			(at 96.52 213.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" ""
+			(at 96.52 213.36 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16963,6 +17269,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser" ""
+			(at 302.26 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "9"
 			(uuid "8ae1b4a4-28e8-4baa-9deb-3878e9b00a32")
 		)
@@ -17061,6 +17376,15 @@
 			)
 		)
 		(property "Description" "Dual D Flip-flop, Set & Reset"
+			(at 214.63 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" ""
 			(at 214.63 80.01 0)
 			(effects
 				(font
@@ -17184,6 +17508,15 @@
 		)
 		(property "Required" "Y"
 			(at 341.63 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" ""
+			(at 341.63 137.16 90)
 			(effects
 				(font
 					(size 1.27 1.27)

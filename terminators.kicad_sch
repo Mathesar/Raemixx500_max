@@ -5777,6 +5777,15 @@
 				)
 			)
 		)
+		(property "Mouser" ""
+			(at 80.137 88.773 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "4"
 			(uuid "8019b200-1fff-4c25-9d55-b4bb969c0735")
 		)
@@ -5868,6 +5877,15 @@
 				)
 			)
 		)
+		(property "Mouser" ""
+			(at 80.137 65.913 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "7"
 			(uuid "967494ef-428e-4b1b-8561-969081236af5")
 		)
@@ -5956,6 +5974,15 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Mouser" ""
+			(at 80.137 43.053 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "4"
@@ -6176,6 +6203,15 @@
 				)
 			)
 		)
+		(property "Mouser" ""
+			(at 160.02 43.053 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "8"
 			(uuid "85d56ec9-1155-4928-8350-0aeb57d525c1")
 		)
@@ -6264,6 +6300,15 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Mouser" ""
+			(at 160.02 78.486 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "3"
@@ -6484,6 +6529,15 @@
 				)
 			)
 		)
+		(property "Mouser" ""
+			(at 246.38 43.18 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "415567f6-f48c-436e-b5c8-52252d196cee")
 		)
@@ -6572,6 +6626,15 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Mouser" ""
+			(at 246.38 78.74 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -6726,6 +6789,15 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Mouser" ""
+			(at 91.694 129.159 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "9"
@@ -7014,6 +7086,15 @@
 				)
 			)
 		)
+		(property "Mouser" ""
+			(at 76.073 164.719 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "01b50c5a-f4c1-4c37-8129-7a6b00f08e9d")
 		)
@@ -7084,6 +7165,15 @@
 				)
 			)
 		)
+		(property "Mouser" ""
+			(at 76.073 169.291 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "d7f12aed-0068-407a-92a3-29beb7a7aa06")
 		)
@@ -7152,6 +7242,15 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Mouser" ""
+			(at 160.02 129.286 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "6"
@@ -7242,6 +7341,15 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Mouser" ""
+			(at 160.02 164.719 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "8"
@@ -7507,6 +7615,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser" ""
+			(at 219.964 132.207 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "4"
 			(uuid "58bffafd-2fe9-4497-b072-d128de8cb627")
 		)
@@ -7646,6 +7763,15 @@
 			)
 		)
 		(property "Required" "Y"
+			(at 244.475 144.272 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" ""
 			(at 244.475 144.272 0)
 			(effects
 				(font

@@ -12336,6 +12336,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser" ""
+			(at 87.249 92.075 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "5"
 			(uuid "a3f1109f-6735-4ad6-8f83-9c241c35df27")
 		)
@@ -12496,7 +12505,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "00000000-0000-0000-0000-00005cbe4324")
 		(property "Reference" "C403"
 			(at 55.753 138.9126 0)
@@ -12552,6 +12561,15 @@
 			)
 		)
 		(property "MFG Part Num" "SKIP"
+			(at 52.832 140.081 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" ""
 			(at 52.832 140.081 0)
 			(effects
 				(font
@@ -12735,6 +12753,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser" ""
+			(at 135.382 88.265 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "11"
 			(uuid "5bc65830-9755-4339-aff0-d2821af52241")
 		)
@@ -12893,6 +12920,15 @@
 		)
 		(property "Required" "Y"
 			(at 135.382 121.285 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" ""
+			(at 135.382 121.285 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13212,7 +13248,7 @@
 				)
 			)
 		)
-		(property "MFG Name" "SKIP"
+		(property "MFG Name" "COMMODORE"
 			(at 191.516 93.345 0)
 			(effects
 				(font
@@ -13221,7 +13257,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFG Part Num" "SKIP"
+		(property "MFG Part Num" "390229-03"
 			(at 191.516 93.345 0)
 			(effects
 				(font
@@ -13240,6 +13276,15 @@
 			)
 		)
 		(property "Required" "Y"
+			(at 191.516 93.345 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" ""
 			(at 191.516 93.345 0)
 			(effects
 				(font
@@ -13439,6 +13484,15 @@
 				)
 			)
 		)
+		(property "Mouser" ""
+			(at 335.026 110.871 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "10"
 			(uuid "93ef590d-aecf-4481-a1c6-76293ded615e")
 		)
@@ -13528,6 +13582,15 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Mouser" ""
+			(at 335.026 93.091 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "6"
@@ -13632,6 +13695,33 @@
 			)
 		)
 		(property "Required" "Y"
+			(at 372.872 115.951 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" ""
+			(at 372.872 115.951 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG Name" "COMMODORE"
+			(at 372.872 115.951 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG Part Num" "390242-03"
 			(at 372.872 115.951 0)
 			(effects
 				(font
@@ -13818,6 +13908,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser" ""
+			(at 372.237 80.899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "9cad213f-6a21-4fc0-aa07-e9a105120e0b")
 		)
@@ -13916,6 +14015,15 @@
 			)
 		)
 		(property "MFG Part Num" "DSS1NB32A103Q91A"
+			(at 366.522 62.103 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" ""
 			(at 366.522 62.103 0)
 			(effects
 				(font
@@ -14031,6 +14139,15 @@
 			)
 		)
 		(property "Required" "Y"
+			(at 369.316 71.247 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" ""
 			(at 369.316 71.247 0)
 			(effects
 				(font
@@ -14290,6 +14407,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser" ""
+			(at 330.2 150.876 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "6fc7a93a-5293-4be7-aed6-cefd028dd0d7")
 		)
@@ -14413,6 +14539,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser" ""
+			(at 341.884 62.738 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "92d34b3d-198a-487b-a41e-79b55094e901")
 		)
@@ -14521,6 +14656,15 @@
 			)
 		)
 		(property "Required" "Y"
+			(at 151.13 208.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" ""
 			(at 151.13 208.28 0)
 			(effects
 				(font
@@ -14696,6 +14840,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser" ""
+			(at 189.23 208.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "e6acfda7-21a9-4bee-842f-eaa9e5b69c58")
 		)
@@ -14819,7 +14972,7 @@
 				)
 			)
 		)
-		(property "MFG Name" "SKIP"
+		(property "MFG Name" "COMMODORE"
 			(at 226.06 208.28 0)
 			(effects
 				(font
@@ -14828,7 +14981,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFG Part Num" "SKIP"
+		(property "MFG Part Num" "390229-03"
 			(at 226.06 208.28 0)
 			(effects
 				(font
@@ -14847,6 +15000,15 @@
 			)
 		)
 		(property "Required" "Y"
+			(at 226.06 208.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" ""
 			(at 226.06 208.28 0)
 			(effects
 				(font
@@ -14993,6 +15155,15 @@
 			)
 		)
 		(property "Required" "Y"
+			(at 90.17 207.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" ""
 			(at 90.17 207.01 0)
 			(effects
 				(font
@@ -15225,6 +15396,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser" ""
+			(at 293.751 197.104 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "682dc841-1b47-4c81-a114-c244a90cadb7")
 		)
@@ -15400,6 +15580,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser" ""
+			(at 87.63 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ae3d4b75-448c-4814-b13e-eee04672bb6a")
 		)
@@ -15482,6 +15671,15 @@
 		)
 		(property "Required" "Y"
 			(at 323.723 79.248 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" ""
+			(at 323.723 79.248 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15575,6 +15773,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser" ""
+			(at 328.549 79.121 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "9c10264d-5939-46d5-8493-e2e802e5c3c9")
 		)
@@ -15652,7 +15859,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFG Part Num" "C412C334M5U5TA"
+		(property "MFG Part Num" "C440C334K5R5TA7200"
 			(at 107.95 208.28 0)
 			(effects
 				(font
@@ -15680,6 +15887,15 @@
 			)
 		)
 		(property "Required" "R"
+			(at 107.95 208.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" "80-C440C334K5R-TR "
 			(at 107.95 208.28 0)
 			(effects
 				(font
@@ -16092,6 +16308,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser" ""
+			(at 119.38 193.04 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "88d82d15-c09c-4ef6-8099-13c6089ed898")
 		)
@@ -16178,7 +16403,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFG Part Num" "EEUFR1C102"
+		(property "MFG Part Num" "ECA-1EM102 "
 			(at 130.81 208.28 0)
 			(effects
 				(font
@@ -16188,6 +16413,15 @@
 			)
 		)
 		(property "Required" "Y"
+			(at 130.81 208.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" "667-ECA-1EM102 "
 			(at 130.81 208.28 0)
 			(effects
 				(font
@@ -16273,7 +16507,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFG Part Num" "C412C334M5U5TA"
+		(property "MFG Part Num" "C440C334K5R5TA7200"
 			(at 171.45 208.28 0)
 			(effects
 				(font
@@ -16301,6 +16535,15 @@
 			)
 		)
 		(property "Required" "R"
+			(at 171.45 208.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" "80-C440C334K5R-TR "
 			(at 171.45 208.28 0)
 			(effects
 				(font
@@ -16386,7 +16629,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFG Part Num" "C412C334M5U5TA"
+		(property "MFG Part Num" "C440C334K5R5TA7200"
 			(at 208.28 208.28 0)
 			(effects
 				(font
@@ -16414,6 +16657,15 @@
 			)
 		)
 		(property "Required" "R"
+			(at 208.28 208.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" "80-C440C334K5R-TR "
 			(at 208.28 208.28 0)
 			(effects
 				(font
@@ -16572,7 +16824,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFG Part Num" "EEUFR1C102"
+		(property "MFG Part Num" "ECA-1EM102 "
 			(at 244.475 208.28 0)
 			(effects
 				(font
@@ -16582,6 +16834,15 @@
 			)
 		)
 		(property "Required" "Y"
+			(at 244.475 208.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" "667-ECA-1EM102 "
 			(at 244.475 208.28 0)
 			(effects
 				(font
@@ -16738,6 +16999,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser" ""
+			(at 255.905 193.04 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "64dafc25-ce39-4cb9-b7dc-4e7b537d8165")
 		)
@@ -16824,7 +17094,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "00000000-0000-0000-0000-00005d5227dd")
 		(property "Reference" "HY2"
 			(at 191.516 136.017 0)
@@ -16887,6 +17157,15 @@
 			)
 		)
 		(property "Section" "VID"
+			(at 191.516 136.906 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" ""
 			(at 191.516 136.906 0)
 			(effects
 				(font
@@ -17058,6 +17337,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser" ""
+			(at 219.329 116.078 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "802cee65-79b7-4dd8-8a44-ee1e3e59ddd7")
 		)
@@ -17202,6 +17490,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser" ""
+			(at 247.396 106.553 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "c117ae1e-17d2-4c7d-bfb5-daf551be18af")
 		)
@@ -17314,6 +17611,15 @@
 			)
 		)
 		(property "Required" "Y"
+			(at 307.34 128.651 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" ""
 			(at 307.34 128.651 0)
 			(effects
 				(font
@@ -17449,6 +17755,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser" ""
+			(at 307.34 138.811 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "1f0050bf-4736-419b-a0d8-8b2adc5d4a35")
 		)
@@ -17568,6 +17883,15 @@
 			)
 		)
 		(property "Required" "Y"
+			(at 290.83 133.731 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" ""
 			(at 290.83 133.731 0)
 			(effects
 				(font
@@ -17759,6 +18083,15 @@
 			)
 		)
 		(property "Required" "Y"
+			(at 231.648 103.505 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" ""
 			(at 231.648 103.505 0)
 			(effects
 				(font
@@ -18022,6 +18355,33 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser" "502-PJRAN1X1U01AUX"
+			(at 261.112 106.045 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG Name" "SWITCHCRAFT"
+			(at 261.112 106.045 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG Part Num" "PJRAN1X1U01AUX "
+			(at 261.112 106.045 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "e65a0585-8046-4f50-a882-d73adcbacf24")
 		)
@@ -18093,6 +18453,15 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Mouser" ""
+			(at 369.824 226.949 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "2"
@@ -18197,6 +18566,15 @@
 				)
 			)
 		)
+		(property "Mouser" ""
+			(at 303.403 204.724 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "11"
 			(uuid "415fbc0c-8dde-4411-a437-728b35d06240")
 		)
@@ -18297,6 +18675,15 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Mouser" ""
+			(at 322.834 204.724 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "2"
@@ -18401,6 +18788,15 @@
 				)
 			)
 		)
+		(property "Mouser" ""
+			(at 322.834 229.616 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "6"
 			(uuid "408b254e-50d8-4aeb-a983-5c6b24a31ba6")
 		)
@@ -18501,6 +18897,15 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Mouser" ""
+			(at 303.403 229.616 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -18605,6 +19010,15 @@
 				)
 			)
 		)
+		(property "Mouser" ""
+			(at 369.824 239.395 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "40453f90-00b2-4518-9e58-5fde39278d52")
 		)
@@ -18707,6 +19121,15 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Mouser" ""
+			(at 350.774 197.485 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "8"
@@ -18877,6 +19300,33 @@
 				)
 			)
 		)
+		(property "MFG Name" "VISHAY"
+			(at 369.062 197.612 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG Part Num" "A104K15X7RF5TAA "
+			(at 369.062 197.612 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" "594-A104K15X7RF5TAA "
+			(at 369.062 197.612 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "858f358f-aff0-4830-bff2-d2ee0e91969c")
 		)
@@ -18963,6 +19413,15 @@
 			)
 		)
 		(property "Section" "JMP"
+			(at 312.801 240.157 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" ""
 			(at 312.801 240.157 0)
 			(effects
 				(font
@@ -19061,6 +19520,15 @@
 			)
 		)
 		(property "Section" "JMP"
+			(at 312.801 215.265 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" ""
 			(at 312.801 215.265 0)
 			(effects
 				(font

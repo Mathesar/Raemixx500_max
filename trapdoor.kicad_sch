@@ -4008,6 +4008,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser" ""
+			(at 156.21 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "7"
 			(uuid "f0c9d943-8b65-4c0b-a799-17c06c63761f")
 		)
@@ -4658,6 +4667,15 @@
 		)
 		(property "Section" "JMP"
 			(at 246.38 107.188 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" ""
+			(at 246.38 107.188 90)
 			(effects
 				(font
 					(size 1.27 1.27)
