@@ -15812,7 +15812,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" " 81-DSS1NB32A103Q91A "
 			(at 109.728 104.394 90)
 			(effects
 				(font
@@ -16059,7 +16059,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" " 81-DSS1NB32A103Q91A "
 			(at 146.558 104.394 90)
 			(effects
 				(font

@@ -7086,7 +7086,25 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "603-MFR-25FBF52-1K "
+			(at 76.073 164.719 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG Name" "YAGEO"
+			(at 76.073 164.719 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG Part Num" "MFR-25FBF52-1K"
 			(at 76.073 164.719 90)
 			(effects
 				(font
@@ -7165,7 +7183,25 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "603-MFR-25FBF52-1K "
+			(at 76.073 169.291 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG Name" "YAGEO"
+			(at 76.073 169.291 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG Part Num" "MFR-25FBF52-1K"
 			(at 76.073 169.291 90)
 			(effects
 				(font

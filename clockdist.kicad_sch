@@ -3703,7 +3703,25 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "594-A470J15C0GF5TAA"
+			(at 199.898 121.666 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG Name" "VISHAY"
+			(at 199.898 121.666 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG Part Num" "A470J15C0GF5TAA "
 			(at 199.898 121.666 0)
 			(effects
 				(font
@@ -3802,7 +3820,25 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "594-A470J15C0GF5TAA"
+			(at 50.8 120.904 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG Name" "VISHAY"
+			(at 50.8 120.904 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG Part Num" "A470J15C0GF5TAA "
 			(at 50.8 120.904 0)
 			(effects
 				(font
@@ -3901,7 +3937,25 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "594-A470J15C0GF5TAA"
+			(at 61.976 121.158 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG Name" "VISHAY"
+			(at 61.976 121.158 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG Part Num" "A470J15C0GF5TAA "
 			(at 61.976 121.158 0)
 			(effects
 				(font
@@ -4000,7 +4054,25 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "594-A470J15C0GF5TAA"
+			(at 73.152 121.158 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG Name" "VISHAY"
+			(at 73.152 121.158 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG Part Num" "A470J15C0GF5TAA "
 			(at 73.152 121.158 0)
 			(effects
 				(font
@@ -4326,7 +4398,25 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "594-A470J15C0GF5TAA"
+			(at 73.152 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG Name" "VISHAY"
+			(at 73.152 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG Part Num" "A470J15C0GF5TAA "
 			(at 73.152 172.72 0)
 			(effects
 				(font
@@ -4498,7 +4588,25 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "603-MFR-25FBF52-68R "
+			(at 136.906 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG Name" "YAGEO"
+			(at 136.906 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG Part Num" "MFR-25FBF52-68R "
 			(at 136.906 102.87 0)
 			(effects
 				(font
@@ -4609,7 +4717,25 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "603-MFR-25FBF52-68R "
+			(at 136.906 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG Name" "YAGEO"
+			(at 136.906 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG Part Num" "MFR-25FBF52-68R "
 			(at 136.906 113.03 0)
 			(effects
 				(font
@@ -5706,7 +5832,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" " 81-DSS1NB32A103Q91A "
 			(at 246.126 72.898 90)
 			(effects
 				(font

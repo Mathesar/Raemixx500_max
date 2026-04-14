@@ -15396,7 +15396,25 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "603-MFR-25FBF52-4K7 "
+			(at 293.751 197.104 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG Name" "YAGEO"
+			(at 293.751 197.104 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG Part Num" "MFR-25FBF52-4K7 "
 			(at 293.751 197.104 90)
 			(effects
 				(font
@@ -15580,7 +15598,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" " 81-DSS1NB32A103Q91A "
 			(at 87.63 182.88 0)
 			(effects
 				(font
@@ -15678,7 +15696,25 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "603-MFR-25FBF52-4K7 "
+			(at 323.723 79.248 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG Name" "YAGEO"
+			(at 323.723 79.248 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG Part Num" "MFR-25FBF52-4K7 "
 			(at 323.723 79.248 90)
 			(effects
 				(font
@@ -15773,7 +15809,25 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "603-MFR-25FBF52-4K7 "
+			(at 328.549 79.121 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG Name" "YAGEO"
+			(at 328.549 79.121 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG Part Num" "MFR-25FBF52-4K7 "
 			(at 328.549 79.121 90)
 			(effects
 				(font
@@ -16308,7 +16362,25 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "594-5083NW4R700JA100"
+			(at 119.38 193.04 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG Name" "VISHAY"
+			(at 119.38 193.04 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG Part Num" "PR02000204708JA100 "
 			(at 119.38 193.04 90)
 			(effects
 				(font
@@ -16999,7 +17071,25 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "594-PR02000204707JA1 "
+			(at 255.905 193.04 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG Name" "VISHAY"
+			(at 255.905 193.04 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG Part Num" "PR02000204707JA100"
 			(at 255.905 193.04 90)
 			(effects
 				(font
@@ -17490,7 +17580,25 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "603-MFR-25FBF52-150R"
+			(at 247.396 106.553 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG Name" "YAGEO"
+			(at 247.396 106.553 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG Part Num" "MFR-25FBF52-150R"
 			(at 247.396 106.553 0)
 			(effects
 				(font

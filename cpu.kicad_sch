@@ -17198,7 +17198,25 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "603-MFR-25FBF52-68R "
+			(at 336.042 71.12 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG Name" "YAGEO"
+			(at 336.042 71.12 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG Part Num" "MFR-25FBF52-68R "
 			(at 336.042 71.12 90)
 			(effects
 				(font
@@ -19990,7 +20008,25 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "603-MFR-25FBF52-68R "
+			(at 235.458 29.21 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG Name" "YAGEO"
+			(at 235.458 29.21 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG Part Num" "MFR-25FBF52-68R "
 			(at 235.458 29.21 90)
 			(effects
 				(font
@@ -20083,7 +20119,25 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "603-MFR-25FBF52-68R "
+			(at 235.458 31.75 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG Name" "YAGEO"
+			(at 235.458 31.75 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG Part Num" "MFR-25FBF52-68R "
 			(at 235.458 31.75 90)
 			(effects
 				(font
@@ -20535,7 +20589,25 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "603-MFR-25FBF52-68R "
+			(at 196.596 260.604 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG Name" "YAGEO"
+			(at 196.596 260.604 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG Part Num" "MFR-25FBF52-68R "
 			(at 196.596 260.604 0)
 			(effects
 				(font
@@ -20708,7 +20780,25 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "603-MFR-25FBF52-150R"
+			(at 238.633 263.144 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG Name" "YAGEO"
+			(at 238.633 263.144 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG Part Num" "MFR-25FBF52-150R"
 			(at 238.633 263.144 0)
 			(effects
 				(font

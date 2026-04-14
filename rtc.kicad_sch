@@ -4010,7 +4010,25 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "603-MFR-25FBF52-1K "
+			(at 132.08 54.102 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG Name" "YAGEO"
+			(at 132.08 54.102 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG Part Num" "MFR-25FBF52-1K"
 			(at 132.08 54.102 0)
 			(effects
 				(font
@@ -4151,7 +4169,25 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "603-MFR-25FBF52-10K"
+			(at 142.113 54.102 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG Name" "YAGEO"
+			(at 142.113 54.102 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG Part Num" "MFR-25FBF52-10K"
 			(at 142.113 54.102 0)
 			(effects
 				(font
@@ -4228,7 +4264,25 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "603-MFR-25FBF52-1K "
+			(at 101.981 54.102 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG Name" "YAGEO"
+			(at 101.981 54.102 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG Part Num" "MFR-25FBF52-1K"
 			(at 101.981 54.102 0)
 			(effects
 				(font
@@ -5453,7 +5507,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1n4148"
+		(property "Value" "1N4148"
 			(at 98.6536 121.031 90)
 			(effects
 				(font
@@ -5497,7 +5551,25 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "512-1N4148TR "
+			(at 96.647 119.888 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG Name" "ONSEMI"
+			(at 96.647 119.888 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG Part Num" "1N4148TR"
 			(at 96.647 119.888 90)
 			(effects
 				(font
@@ -5538,7 +5610,7 @@
 				)
 			)
 		)
-		(property "Value" "1n4148"
+		(property "Value" "1N4148"
 			(at 104.013 109.347 0)
 			(effects
 				(font
@@ -5581,7 +5653,25 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "512-1N4148TR "
+			(at 104.013 112.522 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG Name" "ONSEMI"
+			(at 104.013 112.522 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG Part Num" "1N4148TR"
 			(at 104.013 112.522 0)
 			(effects
 				(font
@@ -5656,7 +5746,25 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "603-MFR-25FBF52-470R"
+			(at 88.519 112.522 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG Name" "YAGEO"
+			(at 88.519 112.522 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG Part Num" "MFR-25FBF52-470R"
 			(at 88.519 112.522 90)
 			(effects
 				(font
@@ -5833,7 +5941,7 @@
 				)
 			)
 		)
-		(property "Value" "1n4148"
+		(property "Value" "1N4148"
 			(at 85.471 126.365 0)
 			(effects
 				(font
@@ -5876,7 +5984,25 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "512-1N4148TR "
+			(at 85.471 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG Name" "ONSEMI"
+			(at 85.471 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG Part Num" "1N4148TR"
 			(at 85.471 129.54 0)
 			(effects
 				(font
