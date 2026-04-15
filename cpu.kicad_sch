@@ -17318,6 +17318,15 @@
 				(hide yes)
 			)
 		)
+		(property "MFG Name" "COMMODORE"
+			(at 291.592 190.119 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "35"
 			(uuid "d48a55ee-e723-4140-8345-bdcb1f481fda")
 		)
@@ -17650,7 +17659,25 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "603-MFR-25FBF52-47R "
+			(at 296.672 120.523 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG Name" "YAGEO"
+			(at 296.672 120.523 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG Part Num" "MFR-25FBF52-47R"
 			(at 296.672 120.523 90)
 			(effects
 				(font
@@ -17745,7 +17772,25 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "603-MFR-25FBF52-47R "
+			(at 301.752 120.523 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG Name" "YAGEO"
+			(at 301.752 120.523 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG Part Num" "MFR-25FBF52-47R"
 			(at 301.752 120.523 90)
 			(effects
 				(font
@@ -17840,7 +17885,25 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "603-MFR-25FBF52-47R "
+			(at 306.832 120.523 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG Name" "YAGEO"
+			(at 306.832 120.523 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG Part Num" "MFR-25FBF52-47R"
 			(at 306.832 120.523 90)
 			(effects
 				(font
@@ -18539,7 +18602,25 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "603-MFR-25FBF52-47R "
+			(at 340.233 219.329 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG Name" "YAGEO"
+			(at 340.233 219.329 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG Part Num" "MFR-25FBF52-47R"
 			(at 340.233 219.329 90)
 			(effects
 				(font
@@ -18632,7 +18713,25 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "603-MFR-25FBF52-47R "
+			(at 340.233 215.773 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG Name" "YAGEO"
+			(at 340.233 215.773 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG Part Num" "MFR-25FBF52-47R"
 			(at 340.233 215.773 90)
 			(effects
 				(font
@@ -18957,7 +19056,25 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "603-MFR-25FBF52-27R "
+			(at 250.19 81.28 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG Name" "YAGEO"
+			(at 250.19 81.28 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG Part Num" "MFR-25FBF52-27R"
 			(at 250.19 81.28 90)
 			(effects
 				(font
@@ -19041,7 +19158,25 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "603-MFR-25FBF52-27R "
+			(at 235.585 59.69 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG Name" "YAGEO"
+			(at 235.585 59.69 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG Part Num" "MFR-25FBF52-27R"
 			(at 235.585 59.69 90)
 			(effects
 				(font
@@ -19135,6 +19270,15 @@
 			)
 		)
 		(property "Mouser" ""
+			(at 92.329 117.729 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG Name" "MOTOROLA"
 			(at 92.329 117.729 0)
 			(effects
 				(font
@@ -19915,7 +20059,25 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "603-MFR-25FBF52-47R "
+			(at 235.458 26.67 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG Name" "YAGEO"
+			(at 235.458 26.67 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG Part Num" "MFR-25FBF52-47R"
 			(at 235.458 26.67 90)
 			(effects
 				(font
@@ -20963,6 +21125,15 @@
 			)
 		)
 		(property "Mouser" ""
+			(at 291.592 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG Name" "COMMODORE"
 			(at 291.592 62.23 0)
 			(effects
 				(font

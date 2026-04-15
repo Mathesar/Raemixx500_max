@@ -15292,6 +15292,15 @@
 				(hide yes)
 			)
 		)
+		(property "MFG Name" "COMMODORE"
+			(at 79.375 143.637 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "26"
 			(uuid "ead3bb31-90d4-471e-b15a-4de7cfa82660")
 		)
@@ -15645,7 +15654,25 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "623-2743007111 "
+			(at 109.982 204.978 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG Name" "FAIR-RITE"
+			(at 109.982 204.978 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG Part Num" "2743007111 "
 			(at 109.982 204.978 0)
 			(effects
 				(font
@@ -16258,7 +16285,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "81-DSS1NB32A471Q91A "
 			(at 180.086 50.8 0)
 			(effects
 				(font
@@ -16381,7 +16408,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "81-DSS1NB32A103Q91A "
 			(at 189.357 58.42 0)
 			(effects
 				(font
@@ -16495,7 +16522,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "81-DSS1NB32A471Q91A "
 			(at 180.086 68.58 0)
 			(effects
 				(font
@@ -16609,7 +16636,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "81-DSS1NB32A471Q91A "
 			(at 192.532 74.93 0)
 			(effects
 				(font
@@ -17428,7 +17455,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "81-DSS1NB32A471Q91A "
 			(at 180.086 107.823 0)
 			(effects
 				(font
@@ -17551,7 +17578,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "81-DSS1NB32A103Q91A "
 			(at 189.357 115.062 0)
 			(effects
 				(font
@@ -17665,7 +17692,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "81-DSS1NB32A471Q91A "
 			(at 180.086 125.222 0)
 			(effects
 				(font
@@ -17779,7 +17806,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "81-DSS1NB32A471Q91A "
 			(at 192.532 131.826 0)
 			(effects
 				(font
@@ -18062,7 +18089,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "81-DSS1NB32A682Q91A "
 			(at 244.983 42.799 0)
 			(effects
 				(font
@@ -18186,7 +18213,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "81-DSS1NB32A682Q91A "
 			(at 244.983 53.721 0)
 			(effects
 				(font
@@ -18310,7 +18337,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "81-DSS1NB32A682Q91A "
 			(at 244.983 63.881 0)
 			(effects
 				(font
@@ -18434,7 +18461,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "81-DSS1NB32A682Q91A "
 			(at 244.983 74.549 0)
 			(effects
 				(font
@@ -18711,7 +18738,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "81-DSS1NB32A682Q91A "
 			(at 244.983 99.441 0)
 			(effects
 				(font
@@ -18835,7 +18862,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "81-DSS1NB32A682Q91A "
 			(at 244.983 110.363 0)
 			(effects
 				(font
@@ -18959,7 +18986,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "81-DSS1NB32A682Q91A "
 			(at 244.983 120.523 0)
 			(effects
 				(font
@@ -19083,7 +19110,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "81-DSS1NB32A682Q91A "
 			(at 244.983 131.191 0)
 			(effects
 				(font
@@ -19374,6 +19401,15 @@
 			)
 		)
 		(property "Mouser" ""
+			(at 28.575 54.864 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG Name" "COMMODORE"
 			(at 28.575 54.864 0)
 			(effects
 				(font
@@ -19750,7 +19786,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "81-DSS1NB32A471Q91A "
 			(at 340.868 68.072 0)
 			(effects
 				(font
@@ -19864,7 +19900,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "81-DSS1NB32A471Q91A "
 			(at 340.868 78.994 0)
 			(effects
 				(font
@@ -19978,7 +20014,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "81-DSS1NB32A471Q91A "
 			(at 340.868 89.154 0)
 			(effects
 				(font
@@ -20092,7 +20128,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "81-DSS1NB32A471Q91A "
 			(at 340.868 99.822 0)
 			(effects
 				(font
@@ -22162,7 +22198,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "81-DSS1NB32A271Q91A"
 			(at 160.274 178.308 0)
 			(effects
 				(font
@@ -22276,7 +22312,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "81-DSS1NB32A271Q91A"
 			(at 160.274 223.901 0)
 			(effects
 				(font
@@ -23724,7 +23760,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "81-DSS1NB32A682Q91A "
 			(at 305.308 228.981 0)
 			(effects
 				(font
@@ -24838,7 +24874,7 @@
 				)
 			)
 		)
-		(property "Value" "MPF102"
+		(property "Value" "MPF102 / J113"
 			(at 218.059 230.8352 90)
 			(effects
 				(font
@@ -24872,7 +24908,25 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "512-J113 "
+			(at 218.059 236.855 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG Name" "ONSEMI"
+			(at 218.059 236.855 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG Part Num" "J113"
 			(at 218.059 236.855 90)
 			(effects
 				(font
@@ -26011,7 +26065,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "81-DSS1NB32A682Q91A "
 			(at 305.308 183.388 0)
 			(effects
 				(font
@@ -26247,7 +26301,7 @@
 				)
 			)
 		)
-		(property "Value" "MPF102"
+		(property "Value" "MPF102 / J113"
 			(at 218.059 185.2422 90)
 			(effects
 				(font
@@ -26281,7 +26335,25 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "512-J113 "
+			(at 218.059 191.262 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG Name" "ONSEMI"
+			(at 218.059 191.262 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG Part Num" "J113"
 			(at 218.059 191.262 90)
 			(effects
 				(font
@@ -27193,7 +27265,25 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "512-2N3906BU "
+			(at 127.889 235.839 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG Name" "ONSEMI"
+			(at 127.889 235.839 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG Part Num" "2N3906BU "
 			(at 127.889 235.839 0)
 			(effects
 				(font
@@ -29361,7 +29451,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "00000000-0000-0000-0000-000060b786a9")
 		(property "Reference" "Q931"
 			(at 197.231 182.9308 90)
@@ -29440,7 +29530,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "00000000-0000-0000-0000-000060f43602")
 		(property "Reference" "Q921"
 			(at 197.231 228.5238 90)

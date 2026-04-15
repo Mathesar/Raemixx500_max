@@ -7765,7 +7765,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFG Part Num" "DSS1NB32A101Q91A (has ferrite)"
+		(property "MFG Part Num" "DSS1NB32A101Q91A "
 			(at 74.549 141.224 0)
 			(effects
 				(font
@@ -7774,7 +7774,16 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "81-DSS1NB32A101Q91A "
+			(at 74.549 141.224 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG Name" "MURATA"
 			(at 74.549 141.224 0)
 			(effects
 				(font
@@ -7874,7 +7883,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFG Part Num" "DSS1NB32A101Q91A (has ferrite)"
+		(property "MFG Part Num" "DSS1NB32A101Q91A "
 			(at 84.328 146.304 0)
 			(effects
 				(font
@@ -7883,7 +7892,16 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "81-DSS1NB32A101Q91A "
+			(at 84.328 146.304 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG Name" "MURATA"
 			(at 84.328 146.304 0)
 			(effects
 				(font
@@ -7983,7 +8001,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFG Part Num" "DSS1NB32A101Q91A (has ferrite)"
+		(property "MFG Part Num" "DSS1NB32A101Q91A "
 			(at 74.549 151.384 0)
 			(effects
 				(font
@@ -7992,7 +8010,16 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "81-DSS1NB32A101Q91A "
+			(at 74.549 151.384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG Name" "MURATA"
 			(at 74.549 151.384 0)
 			(effects
 				(font
@@ -8092,7 +8119,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFG Part Num" "DSS1NB32A101Q91A (has ferrite)"
+		(property "MFG Part Num" "DSS1NB32A101Q91A "
 			(at 84.328 156.464 0)
 			(effects
 				(font
@@ -8101,7 +8128,16 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "81-DSS1NB32A101Q91A "
+			(at 84.328 156.464 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG Name" "MURATA"
 			(at 84.328 156.464 0)
 			(effects
 				(font
@@ -8219,7 +8255,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "81-DSS1NB32A103Q91A "
 			(at 74.549 161.544 0)
 			(effects
 				(font
@@ -8580,7 +8616,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFG Part Num" "DSS1NB32A101Q91A (has ferrite)"
+		(property "MFG Part Num" "DSS1NB32A101Q91A "
 			(at 74.549 105.664 0)
 			(effects
 				(font
@@ -8589,7 +8625,16 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "81-DSS1NB32A101Q91A "
+			(at 74.549 105.664 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG Name" "MURATA"
 			(at 74.549 105.664 0)
 			(effects
 				(font
@@ -8689,7 +8734,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFG Part Num" "DSS1NB32A101Q91A (has ferrite)"
+		(property "MFG Part Num" "DSS1NB32A101Q91A "
 			(at 84.328 110.744 0)
 			(effects
 				(font
@@ -8698,7 +8743,16 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "81-DSS1NB32A101Q91A "
+			(at 84.328 110.744 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG Name" "MURATA"
 			(at 84.328 110.744 0)
 			(effects
 				(font
@@ -8799,7 +8853,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFG Part Num" "DSS1NB32A101Q91A (has ferrite)"
+		(property "MFG Part Num" "DSS1NB32A101Q91A "
 			(at 136.017 108.204 0)
 			(effects
 				(font
@@ -8808,7 +8862,16 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "81-DSS1NB32A101Q91A "
+			(at 136.017 108.204 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG Name" "MURATA"
 			(at 136.017 108.204 0)
 			(effects
 				(font
@@ -8909,7 +8972,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFG Part Num" "DSS1NB32A101Q91A (has ferrite)"
+		(property "MFG Part Num" "DSS1NB32A101Q91A "
 			(at 126.238 113.284 0)
 			(effects
 				(font
@@ -8918,7 +8981,16 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "81-DSS1NB32A101Q91A "
+			(at 126.238 113.284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG Name" "MURATA"
 			(at 126.238 113.284 0)
 			(effects
 				(font
@@ -9019,7 +9091,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFG Part Num" "DSS1NB32A101Q91A (has ferrite)"
+		(property "MFG Part Num" "DSS1NB32A101Q91A "
 			(at 136.017 118.364 0)
 			(effects
 				(font
@@ -9028,7 +9100,16 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "81-DSS1NB32A101Q91A "
+			(at 136.017 118.364 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG Name" "MURATA"
 			(at 136.017 118.364 0)
 			(effects
 				(font
@@ -9129,7 +9210,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFG Part Num" "DSS1NB32A101Q91A (has ferrite)"
+		(property "MFG Part Num" "DSS1NB32A101Q91A "
 			(at 126.238 123.444 0)
 			(effects
 				(font
@@ -9138,7 +9219,16 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "81-DSS1NB32A101Q91A "
+			(at 126.238 123.444 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG Name" "MURATA"
 			(at 126.238 123.444 0)
 			(effects
 				(font
@@ -9239,7 +9329,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFG Part Num" "DSS1NB32A101Q91A (has ferrite)"
+		(property "MFG Part Num" "DSS1NB32A101Q91A "
 			(at 136.017 128.524 0)
 			(effects
 				(font
@@ -9248,7 +9338,16 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "81-DSS1NB32A101Q91A "
+			(at 136.017 128.524 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG Name" "MURATA"
 			(at 136.017 128.524 0)
 			(effects
 				(font
@@ -9349,7 +9448,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFG Part Num" "DSS1NB32A101Q91A (has ferrite)"
+		(property "MFG Part Num" "DSS1NB32A101Q91A "
 			(at 126.238 133.604 0)
 			(effects
 				(font
@@ -9358,7 +9457,16 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "81-DSS1NB32A101Q91A "
+			(at 126.238 133.604 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG Name" "MURATA"
 			(at 126.238 133.604 0)
 			(effects
 				(font
@@ -9459,7 +9567,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFG Part Num" "DSS1NB32A101Q91A (has ferrite)"
+		(property "MFG Part Num" "DSS1NB32A101Q91A "
 			(at 136.017 138.684 0)
 			(effects
 				(font
@@ -9468,7 +9576,16 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "81-DSS1NB32A101Q91A "
+			(at 136.017 138.684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG Name" "MURATA"
 			(at 136.017 138.684 0)
 			(effects
 				(font
@@ -9569,7 +9686,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFG Part Num" "DSS1NB32A101Q91A (has ferrite)"
+		(property "MFG Part Num" "DSS1NB32A101Q91A "
 			(at 126.238 143.764 0)
 			(effects
 				(font
@@ -9578,7 +9695,16 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "81-DSS1NB32A101Q91A "
+			(at 126.238 143.764 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG Name" "MURATA"
 			(at 126.238 143.764 0)
 			(effects
 				(font
@@ -9679,7 +9805,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFG Part Num" "DSS1NB32A101Q91A (has ferrite)"
+		(property "MFG Part Num" "DSS1NB32A101Q91A "
 			(at 136.017 148.844 0)
 			(effects
 				(font
@@ -9688,7 +9814,16 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "81-DSS1NB32A101Q91A "
+			(at 136.017 148.844 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG Name" "MURATA"
 			(at 136.017 148.844 0)
 			(effects
 				(font
@@ -9789,7 +9924,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFG Part Num" "DSS1NB32A101Q91A (has ferrite)"
+		(property "MFG Part Num" "DSS1NB32A101Q91A "
 			(at 126.238 153.924 0)
 			(effects
 				(font
@@ -9798,7 +9933,16 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "81-DSS1NB32A101Q91A "
+			(at 126.238 153.924 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG Name" "MURATA"
 			(at 126.238 153.924 0)
 			(effects
 				(font
@@ -9917,7 +10061,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "81-DSS1NB32A103Q91A "
 			(at 136.017 159.004 0)
 			(effects
 				(font
@@ -10540,6 +10684,15 @@
 			)
 		)
 		(property "Mouser" ""
+			(at 68.199 47.244 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG Name" "COMMODORE"
 			(at 68.199 47.244 0)
 			(effects
 				(font

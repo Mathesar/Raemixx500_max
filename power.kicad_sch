@@ -12004,7 +12004,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "00000000-0000-0000-0000-00005cc2d6bf")
 		(property "Reference" "LF1"
 			(at 93.726 63.4492 0)
@@ -12067,6 +12067,15 @@
 			)
 		)
 		(property "Mouser" ""
+			(at 93.726 56.515 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG Name" "COMMODORE"
 			(at 93.726 56.515 0)
 			(effects
 				(font
@@ -14713,6 +14722,15 @@
 				(hide yes)
 			)
 		)
+		(property "MFG Name" "COMMODORE"
+			(at 184.658 128.524 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "34"
 			(uuid "01a7672c-c8a8-41fa-b8dc-e7f83c8832dc")
 		)
@@ -14938,6 +14956,15 @@
 			)
 		)
 		(property "Mouser" ""
+			(at 74.168 129.794 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG Name" "MOTOROLA"
 			(at 74.168 129.794 0)
 			(effects
 				(font
@@ -15219,6 +15246,15 @@
 			)
 		)
 		(property "Mouser" ""
+			(at 112.268 127.254 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG Name" "COMMODORE"
 			(at 112.268 127.254 0)
 			(effects
 				(font
@@ -15812,7 +15848,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" " 81-DSS1NB32A103Q91A "
+		(property "Mouser" "81-DSS1NB32A103Q91A "
 			(at 109.728 104.394 90)
 			(effects
 				(font
@@ -16059,7 +16095,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" " 81-DSS1NB32A103Q91A "
+		(property "Mouser" "81-DSS1NB32A103Q91A "
 			(at 146.558 104.394 90)
 			(effects
 				(font
@@ -19468,7 +19504,25 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "875-CM4545Z131B-10 "
+			(at 93.726 43.815 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG Name" "LAIRD"
+			(at 93.726 43.815 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG Part Num" "CM4545Z131B-10"
 			(at 93.726 43.815 0)
 			(effects
 				(font

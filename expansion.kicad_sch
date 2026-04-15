@@ -6192,7 +6192,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" " 81-DSS1NB32A103Q91A "
+		(property "Mouser" "81-DSS1NB32A103Q91A "
 			(at 197.231 25.908 0)
 			(effects
 				(font
@@ -6311,7 +6311,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" " 81-DSS1NB32A103Q91A "
+		(property "Mouser" "81-DSS1NB32A103Q91A "
 			(at 197.231 41.91 0)
 			(effects
 				(font
@@ -6430,7 +6430,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" " 81-DSS1NB32A103Q91A "
+		(property "Mouser" "81-DSS1NB32A103Q91A "
 			(at 197.231 50.8 0)
 			(effects
 				(font

@@ -6986,6 +6986,18 @@
 			(embedded_fonts no)
 		)
 	)
+	(rectangle
+		(start 279.4 175.26)
+		(end 381 246.38)
+		(stroke
+			(width 0)
+			(type dash)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 77292e1d-c679-423d-bced-51190c7ac7ea)
+	)
 	(text "VIDEO POWER"
 		(exclude_from_sim no)
 		(at 130.048 251.079 0)
@@ -7073,6 +7085,18 @@
 			(justify left bottom)
 		)
 		(uuid "86d48be5-164b-4497-9713-3195a97dfdf0")
+	)
+	(text "OPTIONAL ~{HSYNC}/~{VSYNC} BUFFERS"
+		(exclude_from_sim no)
+		(at 304.8 185.42 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.1588)
+			)
+			(justify left bottom)
+		)
+		(uuid "8a36abd8-ab51-4d45-9388-f816b15b11dc")
 	)
 	(text "I'm pretty sure I've seen\n4.7 used here as well..."
 		(exclude_from_sim no)
@@ -12345,6 +12369,15 @@
 				(hide yes)
 			)
 		)
+		(property "MFG Name" "COMMODORE"
+			(at 87.249 92.075 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "5"
 			(uuid "a3f1109f-6735-4ad6-8f83-9c241c35df27")
 		)
@@ -13908,7 +13941,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "81-DSS1NB32A103Q91A "
 			(at 372.237 80.899 0)
 			(effects
 				(font
@@ -14023,7 +14056,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "81-DSS1NB32A103Q91A "
 			(at 366.522 62.103 0)
 			(effects
 				(font
@@ -14147,7 +14180,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "81-DSS1NB32A103Q91A "
 			(at 369.316 71.247 0)
 			(effects
 				(font
@@ -14407,7 +14440,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "81-DSS1NB32A151Q91A "
 			(at 330.2 150.876 0)
 			(effects
 				(font
@@ -14539,7 +14572,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "81-DSS1NB32A151Q91A "
 			(at 341.884 62.738 0)
 			(effects
 				(font
@@ -15172,6 +15205,15 @@
 				(hide yes)
 			)
 		)
+		(property "MFG Name" "COMMODORE"
+			(at 90.17 207.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "42"
 			(uuid "8657a18c-7ea1-43c5-817e-86a5af79db01")
 		)
@@ -15598,7 +15640,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" " 81-DSS1NB32A103Q91A "
+		(property "Mouser" "81-DSS1NB32A103Q91A "
 			(at 87.63 182.88 0)
 			(effects
 				(font
@@ -17700,7 +17742,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFG Name" "MURATA"
+		(property "MFG Name" "ABRACON"
 			(at 307.34 128.651 0)
 			(effects
 				(font
@@ -17709,7 +17751,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFG Part Num" "BL02RN2R1M2B"
+		(property "MFG Part Num" "ALFB-02 "
 			(at 307.34 128.651 0)
 			(effects
 				(font
@@ -17727,7 +17769,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "815-ALFB-02 "
 			(at 307.34 128.651 0)
 			(effects
 				(font
@@ -17836,7 +17878,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFG Name" "MURATA"
+		(property "MFG Name" "ABRACON"
 			(at 307.34 138.811 0)
 			(effects
 				(font
@@ -17845,7 +17887,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFG Part Num" "BL02RN2R1M2B"
+		(property "MFG Part Num" "ALFB-02 "
 			(at 307.34 138.811 0)
 			(effects
 				(font
@@ -17863,7 +17905,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "815-ALFB-02 "
 			(at 307.34 138.811 0)
 			(effects
 				(font
@@ -17972,7 +18014,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFG Name" "MURATA"
+		(property "MFG Name" "ABRACON"
 			(at 290.83 133.731 0)
 			(effects
 				(font
@@ -17981,7 +18023,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFG Part Num" "BL02RN2R1M2B"
+		(property "MFG Part Num" "ALFB-02 "
 			(at 290.83 133.731 0)
 			(effects
 				(font
@@ -17999,7 +18041,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "815-ALFB-02 "
 			(at 290.83 133.731 0)
 			(effects
 				(font
@@ -18172,7 +18214,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFG Name" "MURATA"
+		(property "MFG Name" "ABRACON"
 			(at 231.648 103.505 0)
 			(effects
 				(font
@@ -18181,7 +18223,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFG Part Num" "BL02RN2R1M2B"
+		(property "MFG Part Num" "ALFB-02 "
 			(at 231.648 103.505 0)
 			(effects
 				(font
@@ -18199,7 +18241,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "815-ALFB-02 "
 			(at 231.648 103.505 0)
 			(effects
 				(font
@@ -18519,7 +18561,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "00000000-0000-0000-0000-000061c01d94")
 		(property "Reference" "U94"
 			(at 369.824 218.8972 0)
@@ -18630,7 +18672,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "00000000-0000-0000-0000-000061c066b7")
 		(property "Reference" "U94"
 			(at 303.403 196.6722 0)
@@ -18741,7 +18783,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "00000000-0000-0000-0000-000061c078ec")
 		(property "Reference" "U94"
 			(at 322.834 196.6722 0)
@@ -18852,7 +18894,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "00000000-0000-0000-0000-000061c08b20")
 		(property "Reference" "U94"
 			(at 322.834 221.5642 0)
@@ -18963,7 +19005,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "00000000-0000-0000-0000-000061c0a223")
 		(property "Reference" "U94"
 			(at 303.403 221.5642 0)
@@ -19074,7 +19116,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "00000000-0000-0000-0000-000061c0b763")
 		(property "Reference" "U94"
 			(at 369.824 231.3432 0)
@@ -19185,7 +19227,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "00000000-0000-0000-0000-000061c0c984")
 		(property "Reference" "U94"
 			(at 356.616 196.3166 0)
@@ -19362,7 +19404,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "00000000-0000-0000-0000-000061da77ed")
 		(property "Reference" "C94"
 			(at 371.983 196.4436 0)

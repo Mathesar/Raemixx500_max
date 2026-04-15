@@ -14019,7 +14019,25 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "571-5822134-3 "
+			(at 247.65 226.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG Name" "TE CONNECTIVITY"
+			(at 247.65 226.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG Part Num" "5822134-3"
 			(at 247.65 226.06 0)
 			(effects
 				(font
@@ -16528,7 +16546,25 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "571-5822134-3 "
+			(at 294.64 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG Name" "TE CONNECTIVITY"
+			(at 294.64 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG Part Num" "5822134-3"
 			(at 294.64 73.66 0)
 			(effects
 				(font
