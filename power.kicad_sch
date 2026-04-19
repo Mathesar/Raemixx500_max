@@ -17805,7 +17805,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "74LS139"
+		(property "Value" "74F139"
 			(at 61.468 189.484 0)
 			(effects
 				(font
@@ -17867,7 +17867,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFG Part Num" "SN74LS139AN "
+		(property "MFG Part Num" "CD74ACT139E "
 			(at 58.928 179.324 0)
 			(effects
 				(font
@@ -17876,7 +17876,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" "595-SN74LS139AN "
+		(property "Mouser" "595-CD74ACT139E "
 			(at 58.928 179.324 0)
 			(effects
 				(font
@@ -17960,7 +17960,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "74LS244"
+		(property "Value" "74F244"
 			(at 136.398 188.214 0)
 			(effects
 				(font
@@ -18022,7 +18022,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFG Part Num" "SN74LS244N "
+		(property "MFG Part Num" ""
 			(at 133.858 179.324 0)
 			(effects
 				(font
@@ -18040,7 +18040,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" "595-SN74LS244N "
+		(property "Mouser" ""
 			(at 133.858 179.324 0)
 			(effects
 				(font
@@ -19609,7 +19609,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "74LS244"
+		(property "Value" "74F244"
 			(at 98.425 187.96 0)
 			(effects
 				(font
@@ -19645,7 +19645,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" "595-SN74LS244N "
+		(property "Mouser" ""
 			(at 97.028 179.324 0)
 			(effects
 				(font
@@ -19663,7 +19663,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFG Part Num" "SN74LS244N "
+		(property "MFG Part Num" ""
 			(at 97.028 179.324 0)
 			(effects
 				(font

@@ -18266,7 +18266,7 @@
 				)
 			)
 		)
-		(property "Value" "74LS258"
+		(property "Value" "74F258"
 			(at 219.329 254.6604 0)
 			(effects
 				(font
@@ -18327,7 +18327,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" "595-SN74LS258BN "
+		(property "Mouser" ""
 			(at 218.694 260.604 0)
 			(effects
 				(font
@@ -18336,7 +18336,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFG Part Num" "SN74LS258BN"
+		(property "MFG Part Num" ""
 			(at 218.694 260.604 0)
 			(effects
 				(font
@@ -18780,7 +18780,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "00000000-0000-0000-0000-00005ccd0386")
 		(property "Reference" "C99"
 			(at 370.586 217.6526 0)
