@@ -3888,7 +3888,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFG Part Num" "SN74LS05N"
+		(property "MFG Part Num" "SN74LS05N "
 			(at 118.872 64.135 0)
 			(effects
 				(font
@@ -3897,7 +3897,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "595-SN74LS05N "
 			(at 118.872 64.135 0)
 			(effects
 				(font
@@ -4492,7 +4492,7 @@
 				)
 			)
 		)
-		(property "Value" "6.8-45p"
+		(property "Value" "12pF - 40pF"
 			(at 244.856 54.9656 90)
 			(effects
 				(font
@@ -4509,7 +4509,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.electrokit.com/upload/product/41016/41016014/JML06-4.pdf"
 			(at 244.856 59.055 0)
 			(effects
 				(font
@@ -4536,6 +4536,24 @@
 			)
 		)
 		(property "Mouser" ""
+			(at 244.856 59.055 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG Part Num" "JML06-1 / 40PF / YELLOW"
+			(at 244.856 59.055 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG Name" "JML06-1"
 			(at 244.856 59.055 90)
 			(effects
 				(font
@@ -4803,7 +4821,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFG Part Num" "SN74LS05N"
+		(property "MFG Part Num" "SN74LS05N "
 			(at 80.518 64.135 0)
 			(effects
 				(font
@@ -4812,7 +4830,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "595-SN74LS05N "
 			(at 80.518 64.135 0)
 			(effects
 				(font
@@ -4890,7 +4908,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "32768"
+		(property "Value" "32.768kHz"
 			(at 229.997 71.374 90)
 			(effects
 				(font
@@ -4934,7 +4952,25 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "520-TFC2X6-X "
+			(at 233.045 64.135 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG Name" "ECS"
+			(at 233.045 64.135 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG Part Num" "ECS-.327-12.5-13X "
 			(at 233.045 64.135 90)
 			(effects
 				(font

@@ -6791,7 +6791,25 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "652-4610X-1LF-4.7K"
+			(at 91.694 129.159 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG Name" "BOURNS"
+			(at 91.694 129.159 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG Part Num" "4610X-101-472LF "
 			(at 91.694 129.159 90)
 			(effects
 				(font
@@ -7280,7 +7298,25 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "652-4610X-1LF-4.7K"
+			(at 160.02 129.286 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG Name" "BOURNS"
+			(at 160.02 129.286 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG Part Num" "4610X-101-472LF "
 			(at 160.02 129.286 90)
 			(effects
 				(font
@@ -7379,7 +7415,25 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "652-4610X-1LF-470 "
+			(at 160.02 164.719 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG Name" "BOURNS"
+			(at 160.02 164.719 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG Part Num" "4610X-101-471LF "
 			(at 160.02 164.719 90)
 			(effects
 				(font
@@ -7633,7 +7687,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFG Part Num" "SN74LS32N"
+		(property "MFG Part Num" "SN74LS32N "
 			(at 219.964 132.207 0)
 			(effects
 				(font
@@ -7651,7 +7705,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "595-SN74LS32N "
 			(at 219.964 132.207 0)
 			(effects
 				(font
@@ -7789,7 +7843,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFG Part Num" "SN74LS32N"
+		(property "MFG Part Num" "SN74LS32N "
 			(at 244.475 144.272 0)
 			(effects
 				(font
@@ -7807,7 +7861,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "595-SN74LS32N "
 			(at 244.475 144.272 0)
 			(effects
 				(font

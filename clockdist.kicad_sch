@@ -4916,7 +4916,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFG Name" "N/A"
+		(property "MFG Name" "TI"
 			(at 92.456 64.77 0)
 			(effects
 				(font
@@ -4934,7 +4934,16 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "595-SN74LS258BN "
+			(at 92.456 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG Part Num" "SN74LS258BN"
 			(at 92.456 64.77 0)
 			(effects
 				(font
@@ -5078,7 +5087,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFG Name" "N/A"
+		(property "MFG Name" "TI"
 			(at 92.456 100.33 0)
 			(effects
 				(font
@@ -5096,7 +5105,16 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "595-SN74LS258BN "
+			(at 92.456 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG Part Num" "SN74LS258BN"
 			(at 92.456 100.33 0)
 			(effects
 				(font
@@ -5240,7 +5258,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFG Name" "N/A"
+		(property "MFG Name" "TI"
 			(at 92.456 82.55 0)
 			(effects
 				(font
@@ -5258,7 +5276,16 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "595-SN74LS258BN "
+			(at 92.456 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG Part Num" "SN74LS258BN"
 			(at 92.456 82.55 0)
 			(effects
 				(font
@@ -5411,7 +5438,25 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "652-4610X-2LF-39"
+			(at 133.096 82.55 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG Name" "BOURNS"
+			(at 133.096 82.55 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG Part Num" "4610X-102-390LF"
 			(at 133.096 82.55 90)
 			(effects
 				(font
@@ -5521,7 +5566,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFG Name" "N/A"
+		(property "MFG Name" "TI"
 			(at 248.666 95.758 0)
 			(effects
 				(font
@@ -5539,7 +5584,16 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "595-SN74LS258BN "
+			(at 248.666 95.758 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG Part Num" "SN74LS258BN"
 			(at 248.666 95.758 0)
 			(effects
 				(font

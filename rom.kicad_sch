@@ -3477,6 +3477,15 @@
 				(hide yes)
 			)
 		)
+		(property "MFG Name" "AMIGA/HYPERION"
+			(at 168.656 91.313 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "904e6638-b839-451a-9190-daf6f206bc2e")
 		)
@@ -3812,6 +3821,15 @@
 			)
 		)
 		(property "Mouser" ""
+			(at 244.348 91.313 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG Name" "AMIGA/HYPERION"
 			(at 244.348 91.313 0)
 			(effects
 				(font

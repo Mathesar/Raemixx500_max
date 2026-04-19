@@ -15283,7 +15283,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "517-4848-6000-CP "
 			(at 79.375 143.637 0)
 			(effects
 				(font
@@ -15292,7 +15292,16 @@
 				(hide yes)
 			)
 		)
-		(property "MFG Name" "COMMODORE"
+		(property "MFG Name" "3M"
+			(at 79.375 143.637 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG Part Num" "4848-6000-CP "
 			(at 79.375 143.637 0)
 			(effects
 				(font
@@ -18566,7 +18575,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFG Part Num" "SN74HCT157NE4"
+		(property "MFG Part Num" "SN74LS157N "
 			(at 316.357 85.725 0)
 			(effects
 				(font
@@ -18575,7 +18584,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "595-SN74LS157N "
 			(at 316.357 85.725 0)
 			(effects
 				(font
@@ -19400,7 +19409,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "517-4848-6000-CP "
 			(at 28.575 54.864 0)
 			(effects
 				(font
@@ -19409,7 +19418,16 @@
 				(hide yes)
 			)
 		)
-		(property "MFG Name" "COMMODORE"
+		(property "MFG Name" "3M"
+			(at 28.575 54.864 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG Part Num" "4848-6000-CP "
 			(at 28.575 54.864 0)
 			(effects
 				(font
@@ -20299,7 +20317,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFG Part Num" "LF347N ???"
+		(property "MFG Part Num" "LF347N "
 			(at 32.766 246.507 0)
 			(effects
 				(font
@@ -20308,7 +20326,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "595-LF347N "
 			(at 32.766 246.507 0)
 			(effects
 				(font
@@ -20589,7 +20607,25 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "652-4610X-1LF-4.7K"
+			(at 287.528 57.531 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG Name" "BOURNS"
+			(at 287.528 57.531 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG Part Num" "4610X-101-472LF "
 			(at 287.528 57.531 0)
 			(effects
 				(font
@@ -21599,7 +21635,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFG Part Num" "LF347N ???"
+		(property "MFG Part Num" "LF347N "
 			(at 242.951 226.441 0)
 			(effects
 				(font
@@ -21608,7 +21644,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "595-LF347N "
 			(at 242.951 226.441 0)
 			(effects
 				(font
@@ -21746,7 +21782,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFG Part Num" "LF347N ???"
+		(property "MFG Part Num" "LF347N "
 			(at 242.951 180.848 0)
 			(effects
 				(font
@@ -21755,7 +21791,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "595-LF347N "
 			(at 242.951 180.848 0)
 			(effects
 				(font
@@ -21894,7 +21930,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFG Part Num" "LF347N ???"
+		(property "MFG Part Num" "LF347N "
 			(at 193.421 178.308 0)
 			(effects
 				(font
@@ -21903,7 +21939,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "595-LF347N "
 			(at 193.421 178.308 0)
 			(effects
 				(font
@@ -22042,7 +22078,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFG Part Num" "LF347N ???"
+		(property "MFG Part Num" "LF347N "
 			(at 193.421 223.901 0)
 			(effects
 				(font
@@ -22051,7 +22087,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "595-LF347N "
 			(at 193.421 223.901 0)
 			(effects
 				(font
@@ -27863,7 +27899,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFG Part Num" "MC1488N"
+		(property "MFG Part Num" "SN75C188N "
 			(at 97.409 235.839 0)
 			(effects
 				(font
@@ -27872,7 +27908,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "595-SN75C188N "
 			(at 97.409 235.839 0)
 			(effects
 				(font
@@ -28534,7 +28570,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFG Part Num" "SN74HCT157NE4"
+		(property "MFG Part Num" "SN74LS157N "
 			(at 378.46 84.963 0)
 			(effects
 				(font
@@ -28543,7 +28579,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "595-SN74LS157N "
 			(at 378.46 84.963 0)
 			(effects
 				(font

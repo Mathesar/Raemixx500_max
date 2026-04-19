@@ -17309,7 +17309,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "575-948424 "
 			(at 291.592 190.119 0)
 			(effects
 				(font
@@ -17318,7 +17318,16 @@
 				(hide yes)
 			)
 		)
-		(property "MFG Name" "COMMODORE"
+		(property "MFG Name" "MILL-MAX"
+			(at 291.592 190.119 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG Part Num" "940-44-084-24-000000 "
 			(at 291.592 190.119 0)
 			(effects
 				(font
@@ -18005,7 +18014,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFG Part Num" "SN74LS32N"
+		(property "MFG Part Num" "SN74LS32N "
 			(at 335.28 104.648 0)
 			(effects
 				(font
@@ -18023,7 +18032,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "595-SN74LS32N "
 			(at 335.28 104.648 0)
 			(effects
 				(font
@@ -18162,7 +18171,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFG Part Num" "SN74LS32N"
+		(property "MFG Part Num" "SN74LS32N "
 			(at 335.28 113.157 0)
 			(effects
 				(font
@@ -18180,7 +18189,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "595-SN74LS32N "
 			(at 335.28 113.157 0)
 			(effects
 				(font
@@ -18300,7 +18309,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFG Name" "N/A"
+		(property "MFG Name" "TI"
 			(at 218.694 260.604 0)
 			(effects
 				(font
@@ -18318,7 +18327,16 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "595-SN74LS258BN "
+			(at 218.694 260.604 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG Part Num" "SN74LS258BN"
 			(at 218.694 260.604 0)
 			(effects
 				(font
@@ -19269,7 +19287,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "575-193964 "
 			(at 92.329 117.729 0)
 			(effects
 				(font
@@ -19278,7 +19296,16 @@
 				(hide yes)
 			)
 		)
-		(property "MFG Name" "MOTOROLA"
+		(property "MFG Name" "MILL-MAX"
+			(at 92.329 117.729 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG Part Num" "110-93-964-41-001000"
 			(at 92.329 117.729 0)
 			(effects
 				(font
@@ -19648,7 +19675,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "595-SN74LS373N "
 			(at 172.085 97.409 90)
 			(effects
 				(font
@@ -19822,7 +19849,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "595-SN74LS373N "
 			(at 172.085 168.529 90)
 			(effects
 				(font
@@ -20402,7 +20429,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFG Part Num" "SN74LS244N"
+		(property "MFG Part Num" "SN74LS244N "
 			(at 172.085 132.842 0)
 			(effects
 				(font
@@ -20420,7 +20447,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "595-SN74LS244N "
 			(at 172.085 132.842 90)
 			(effects
 				(font
@@ -20577,7 +20604,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFG Part Num" "SN74LS244N"
+		(property "MFG Part Num" "SN74LS244N "
 			(at 172.085 61.595 0)
 			(effects
 				(font
@@ -20595,7 +20622,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "595-SN74LS244N "
 			(at 172.085 61.595 90)
 			(effects
 				(font
@@ -21124,7 +21151,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "517-4848-6000-CP "
 			(at 291.592 62.23 0)
 			(effects
 				(font
@@ -21133,7 +21160,16 @@
 				(hide yes)
 			)
 		)
-		(property "MFG Name" "COMMODORE"
+		(property "MFG Name" "3M"
+			(at 291.592 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG Part Num" "4848-6000-CP "
 			(at 291.592 62.23 0)
 			(effects
 				(font
