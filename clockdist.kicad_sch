@@ -4934,7 +4934,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "595-SN74F258N "
 			(at 92.456 64.77 0)
 			(effects
 				(font
@@ -4943,7 +4943,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFG Part Num" ""
+		(property "MFG Part Num" "SN74F258N "
 			(at 92.456 64.77 0)
 			(effects
 				(font
@@ -5105,7 +5105,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "595-SN74F258N "
 			(at 92.456 100.33 0)
 			(effects
 				(font
@@ -5114,7 +5114,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFG Part Num" ""
+		(property "MFG Part Num" "SN74F258N "
 			(at 92.456 100.33 0)
 			(effects
 				(font
@@ -5276,7 +5276,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "595-SN74F258N "
 			(at 92.456 82.55 0)
 			(effects
 				(font
@@ -5285,7 +5285,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFG Part Num" ""
+		(property "MFG Part Num" "SN74F258N "
 			(at 92.456 82.55 0)
 			(effects
 				(font
@@ -5584,7 +5584,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "595-SN74F258N "
 			(at 248.666 95.758 0)
 			(effects
 				(font
@@ -5593,7 +5593,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFG Part Num" ""
+		(property "MFG Part Num" "SN74F258N "
 			(at 248.666 95.758 0)
 			(effects
 				(font

@@ -18327,7 +18327,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "595-SN74F258N "
 			(at 218.694 260.604 0)
 			(effects
 				(font
@@ -18336,7 +18336,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFG Part Num" ""
+		(property "MFG Part Num" "SN74F258N "
 			(at 218.694 260.604 0)
 			(effects
 				(font
