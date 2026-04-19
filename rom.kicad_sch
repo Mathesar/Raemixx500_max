@@ -3468,7 +3468,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "517-4842-6000-CP "
 			(at 168.656 91.313 0)
 			(effects
 				(font
@@ -3477,7 +3477,16 @@
 				(hide yes)
 			)
 		)
-		(property "MFG Name" "AMIGA/HYPERION"
+		(property "MFG Name" "3M"
+			(at 168.656 91.313 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG Part Num" "4842-6000-CP "
 			(at 168.656 91.313 0)
 			(effects
 				(font
@@ -3820,7 +3829,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "517-4842-6000-CP "
 			(at 244.348 91.313 0)
 			(effects
 				(font
@@ -3829,7 +3838,16 @@
 				(hide yes)
 			)
 		)
-		(property "MFG Name" "AMIGA/HYPERION"
+		(property "MFG Name" "3M"
+			(at 244.348 91.313 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG Part Num" "4842-6000-CP "
 			(at 244.348 91.313 0)
 			(effects
 				(font

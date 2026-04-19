@@ -16536,7 +16536,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "517-4840-6000-CP "
 			(at 84.201 87.884 0)
 			(effects
 				(font
@@ -16545,7 +16545,16 @@
 				(hide yes)
 			)
 		)
-		(property "MFG Name" "COMMODORE"
+		(property "MFG Name" "3M"
+			(at 84.201 87.884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG Part Num" "4840-6000-CP "
 			(at 84.201 87.884 0)
 			(effects
 				(font
@@ -16743,7 +16752,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "517-4840-6000-CP "
 			(at 84.201 160.655 0)
 			(effects
 				(font
@@ -16752,7 +16761,16 @@
 				(hide yes)
 			)
 		)
-		(property "MFG Name" "COMMODORE"
+		(property "MFG Name" "3M"
+			(at 84.201 160.655 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG Part Num" "4840-6000-CP "
 			(at 84.201 160.655 0)
 			(effects
 				(font
@@ -19232,7 +19250,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "517-4840-6000-CP "
 			(at 159.004 260.604 0)
 			(effects
 				(font
@@ -19241,7 +19259,16 @@
 				(hide yes)
 			)
 		)
-		(property "MFG Name" "COMMODORE"
+		(property "MFG Name" "3M"
+			(at 159.004 260.604 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG Part Num" "4840-6000-CP "
 			(at 159.004 260.604 0)
 			(effects
 				(font
@@ -19441,7 +19468,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "517-4840-6000-CP "
 			(at 194.945 260.604 0)
 			(effects
 				(font
@@ -19450,7 +19477,16 @@
 				(hide yes)
 			)
 		)
-		(property "MFG Name" "COMMODORE"
+		(property "MFG Name" "3M"
+			(at 194.945 260.604 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG Part Num" "4840-6000-CP "
 			(at 194.945 260.604 0)
 			(effects
 				(font

@@ -3738,7 +3738,25 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "517-4818-3000-CP "
+			(at 203.073 53.975 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG Name" "3M"
+			(at 203.073 53.975 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG Part Num" "4818-3000-CP "
 			(at 203.073 53.975 0)
 			(effects
 				(font
@@ -5276,7 +5294,25 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "517-4818-3000-CP "
+			(at 115.697 147.955 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG Name" "3M"
+			(at 115.697 147.955 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG Part Num" "4818-3000-CP "
 			(at 115.697 147.955 0)
 			(effects
 				(font
