@@ -7343,7 +7343,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" "649-77313-101-34LF "
+		(property "Mouser" "737-BHR-34-VUA "
 			(at 175.641 57.15 0)
 			(effects
 				(font
@@ -7352,7 +7352,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFG Name" "AMPHENOL"
+		(property "MFG Name" "ADAM TECH"
 			(at 175.641 57.15 0)
 			(effects
 				(font
@@ -7361,7 +7361,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFG Part Num" "77313-101-34LF "
+		(property "MFG Part Num" "BHR-34-VUA"
 			(at 175.641 57.15 0)
 			(effects
 				(font

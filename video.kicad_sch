@@ -7075,9 +7075,9 @@
 		)
 		(uuid "7eb69e60-28c7-4812-add5-ad5536793c34")
 	)
-	(text "Note: Pin 2 and 21 of HY1\nconnected internally"
+	(text "Note: Pin 2 and 21 of HY1 are\nconnected internally on \n390229-01 & 390229-02 hybrids\n"
 		(exclude_from_sim no)
-		(at 226.822 188.976 0)
+		(at 226.695 187.325 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13290,7 +13290,7 @@
 				)
 			)
 		)
-		(property "MFG Name" "COMMODORE"
+		(property "MFG Name" "DvW/SukkoPerra"
 			(at 191.516 93.345 0)
 			(effects
 				(font
@@ -13299,7 +13299,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFG Part Num" "390229-03"
+		(property "MFG Part Num" "OpenAmigaVideoHybrid-04"
 			(at 191.516 93.345 0)
 			(effects
 				(font
@@ -15050,7 +15050,7 @@
 				)
 			)
 		)
-		(property "MFG Name" "COMMODORE"
+		(property "MFG Name" "DvW/SukkoPerra"
 			(at 226.06 208.28 0)
 			(effects
 				(font
@@ -15059,7 +15059,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFG Part Num" "390229-03"
+		(property "MFG Part Num" "OpenAmigaVideoHybrid-04"
 			(at 226.06 208.28 0)
 			(effects
 				(font

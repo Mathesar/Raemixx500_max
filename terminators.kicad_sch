@@ -5733,7 +5733,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005d6d64eb")
 		(property "Reference" "RP107"
 			(at 87.376 87.503 90)
@@ -5777,7 +5777,25 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "652-4610X-1LF-4.7K"
+			(at 80.137 88.773 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG Name" "BOURNS"
+			(at 80.137 88.773 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG Part Num" "4610X-101-472LF "
 			(at 80.137 88.773 90)
 			(effects
 				(font
@@ -5833,7 +5851,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005d6d7ad8")
 		(property "Reference" "RP106"
 			(at 87.122 64.897 90)
@@ -5877,7 +5895,25 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "652-4610X-1LF-4.7K"
+			(at 80.137 65.913 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG Name" "BOURNS"
+			(at 80.137 65.913 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG Part Num" "4610X-101-472LF "
 			(at 80.137 65.913 90)
 			(effects
 				(font
@@ -5932,7 +5968,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005d6db666")
 		(property "Reference" "RP105"
 			(at 87.249 41.783 90)
@@ -5976,7 +6012,25 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "Mouser" "652-4610X-1LF-4.7K"
+			(at 80.137 43.053 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG Name" "BOURNS"
+			(at 80.137 43.053 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG Part Num" "4610X-101-472LF "
 			(at 80.137 43.053 90)
 			(effects
 				(font
@@ -6757,7 +6811,7 @@
 				)
 			)
 		)
-		(property "Value" "4.7K"
+		(property "Value" "4.7k"
 			(at 98.933 130.556 90)
 			(effects
 				(font
@@ -7264,7 +7318,7 @@
 				)
 			)
 		)
-		(property "Value" "4.7K"
+		(property "Value" "4.7k"
 			(at 167.005 130.81 90)
 			(effects
 				(font
