@@ -6,7 +6,7 @@
 	(paper "A3")
 	(title_block
 		(title "Rämixx500_max")
-		(date "2026-04-09")
+		(date "2026-04-26")
 		(rev "3")
 		(company "SukkoPera")
 		(comment 1 "PAULA PREFERS THE TRADITIONAL MODES")
@@ -18522,7 +18522,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-16_W7.62mm_Socket_LongPads"
+		(property "Footprint" "Package_DIP:DIP-16_W7.62mm_LongPads"
 			(at 316.357 85.725 0)
 			(effects
 				(font
@@ -20264,7 +20264,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-14_W7.62mm_Socket_LongPads"
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm_LongPads"
 			(at 31.496 243.967 0)
 			(effects
 				(font
@@ -21582,7 +21582,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-14_W7.62mm_Socket_LongPads"
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm_LongPads"
 			(at 241.681 223.901 0)
 			(effects
 				(font
@@ -21729,7 +21729,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-14_W7.62mm_Socket_LongPads"
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm_LongPads"
 			(at 241.681 178.308 0)
 			(effects
 				(font
@@ -21877,7 +21877,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-14_W7.62mm_Socket_LongPads"
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm_LongPads"
 			(at 192.151 180.848 0)
 			(effects
 				(font
@@ -22025,7 +22025,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-14_W7.62mm_Socket_LongPads"
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm_LongPads"
 			(at 192.151 226.441 0)
 			(effects
 				(font
@@ -27846,7 +27846,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-14_W7.62mm_Socket_LongPads"
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm_LongPads"
 			(at 97.409 235.839 0)
 			(effects
 				(font
@@ -28517,7 +28517,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-16_W7.62mm_Socket_LongPads"
+		(property "Footprint" "Package_DIP:DIP-16_W7.62mm_LongPads"
 			(at 378.46 84.963 0)
 			(effects
 				(font

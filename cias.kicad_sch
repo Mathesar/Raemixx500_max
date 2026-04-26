@@ -6,7 +6,7 @@
 	(paper "A3")
 	(title_block
 		(title "Rämixx500_max")
-		(date "2026-04-09")
+		(date "2026-04-26")
 		(rev "3")
 		(company "SukkoPera")
 		(comment 1 "RS232 AND PARALLEL PORT")
@@ -21640,7 +21640,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-14_W7.62mm_Socket_LongPads"
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm_LongPads"
 			(at 184.15 174.244 0)
 			(effects
 				(font
@@ -21787,7 +21787,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-14_W7.62mm_Socket_LongPads"
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm_LongPads"
 			(at 184.15 163.703 0)
 			(effects
 				(font
@@ -22021,7 +22021,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-14_W7.62mm_Socket_LongPads"
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm_LongPads"
 			(at 184.15 184.404 0)
 			(effects
 				(font
@@ -23140,7 +23140,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-14_W7.62mm_Socket_LongPads"
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm_LongPads"
 			(at 163.703 179.324 0)
 			(effects
 				(font
@@ -23288,7 +23288,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-14_W7.62mm_Socket_LongPads"
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm_LongPads"
 			(at 154.686 194.564 0)
 			(effects
 				(font
@@ -23436,7 +23436,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-14_W7.62mm_Socket_LongPads"
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm_LongPads"
 			(at 141.859 204.724 0)
 			(effects
 				(font
@@ -23584,7 +23584,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-14_W7.62mm_Socket_LongPads"
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm_LongPads"
 			(at 141.859 189.484 0)
 			(effects
 				(font
@@ -23733,7 +23733,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-14_W7.62mm_Socket_LongPads"
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm_LongPads"
 			(at 38.735 269.494 0)
 			(effects
 				(font
@@ -23882,7 +23882,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-14_W7.62mm_Socket_LongPads"
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm_LongPads"
 			(at 54.991 269.494 0)
 			(effects
 				(font
@@ -25806,7 +25806,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-8_W7.62mm_Socket_LongPads"
+		(property "Footprint" "Package_DIP:DIP-8_W7.62mm_LongPads"
 			(at 322.961 195.453 0)
 			(effects
 				(font
@@ -26576,7 +26576,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-8_W7.62mm_Socket_LongPads"
+		(property "Footprint" "Package_DIP:DIP-8_W7.62mm_LongPads"
 			(at 397.002 196.088 0)
 			(effects
 				(font

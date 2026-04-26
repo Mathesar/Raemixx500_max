@@ -6,7 +6,7 @@
 	(paper "A4")
 	(title_block
 		(title "Rämixx500_max")
-		(date "2026-04-09")
+		(date "2026-04-26")
 		(rev "3")
 		(company "SukkoPera")
 		(comment 4 "Licensed under CC BY-NC-SA 4.0")
@@ -7688,7 +7688,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-14_W7.62mm_Socket_LongPads"
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm_LongPads"
 			(at 219.964 132.207 0)
 			(effects
 				(font
@@ -7844,7 +7844,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-14_W7.62mm_Socket_LongPads"
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm_LongPads"
 			(at 244.475 144.272 0)
 			(effects
 				(font

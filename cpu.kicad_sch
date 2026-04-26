@@ -6,7 +6,7 @@
 	(paper "A3")
 	(title_block
 		(title "Rämixx500_max")
-		(date "2026-04-09")
+		(date "2026-04-26")
 		(rev "3")
 		(company "SukkoPera")
 		(comment 1 "PROCESSOR AND OTHER USEFUL COMPONENTS")
@@ -17961,7 +17961,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-14_W7.62mm_Socket_LongPads"
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm_LongPads"
 			(at 335.28 104.648 0)
 			(effects
 				(font
@@ -18118,7 +18118,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-14_W7.62mm_Socket_LongPads"
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm_LongPads"
 			(at 335.28 113.157 0)
 			(effects
 				(font
@@ -18274,7 +18274,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-16_W7.62mm_Socket_LongPads"
+		(property "Footprint" "Package_DIP:DIP-16_W7.62mm_LongPads"
 			(at 297.434 319.024 0)
 			(effects
 				(font
@@ -19604,7 +19604,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-20_W7.62mm_Socket_LongPads"
+		(property "Footprint" "Package_DIP:DIP-20_W7.62mm_LongPads"
 			(at 172.085 97.409 0)
 			(effects
 				(font
@@ -19778,7 +19778,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-20_W7.62mm_Socket_LongPads"
+		(property "Footprint" "Package_DIP:DIP-20_W7.62mm_LongPads"
 			(at 172.085 168.529 0)
 			(effects
 				(font
@@ -20376,7 +20376,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-20_W7.62mm_Socket_LongPads"
+		(property "Footprint" "Package_DIP:DIP-20_W7.62mm_LongPads"
 			(at 172.085 132.842 0)
 			(effects
 				(font
@@ -20551,7 +20551,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-20_W7.62mm_Socket_LongPads"
+		(property "Footprint" "Package_DIP:DIP-20_W7.62mm_LongPads"
 			(at 172.085 61.595 0)
 			(effects
 				(font

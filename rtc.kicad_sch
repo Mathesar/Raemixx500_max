@@ -6,7 +6,7 @@
 	(paper "A4")
 	(title_block
 		(title "Rämixx500_max")
-		(date "2026-04-09")
+		(date "2026-04-26")
 		(rev "3")
 		(company "SukkoPera")
 		(comment 4 "Licensed under CC BY-NC-SA 4.0")
@@ -3853,7 +3853,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-14_W7.62mm_Socket_LongPads"
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm_LongPads"
 			(at 118.872 64.135 0)
 			(effects
 				(font
@@ -4571,7 +4571,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFG Name" "JML06-1"
+		(property "MFG Name" ""
 			(at 244.856 59.055 90)
 			(effects
 				(font
@@ -4786,7 +4786,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-14_W7.62mm_Socket_LongPads"
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm_LongPads"
 			(at 80.518 64.135 0)
 			(effects
 				(font
@@ -5077,7 +5077,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFG Name" "Eagle Plastic Devices"
+		(property "MFG Name" "EAGLE PLASTIC DEVICES"
 			(at 74.93 149.098 0)
 			(effects
 				(font

@@ -6,7 +6,7 @@
 	(paper "A3")
 	(title_block
 		(title "Rämixx500_max")
-		(date "2026-04-09")
+		(date "2026-04-26")
 		(rev "3")
 		(company "SukkoPera")
 		(comment 1 "DENISE IS PRETTY MUCH INTO VIDEO...")
@@ -12724,7 +12724,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-20_W7.62mm_Socket_LongPads"
+		(property "Footprint" "Package_DIP:DIP-20_W7.62mm_LongPads"
 			(at 135.382 88.265 0)
 			(effects
 				(font
@@ -12898,7 +12898,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-20_W7.62mm_Socket_LongPads"
+		(property "Footprint" "Package_DIP:DIP-20_W7.62mm_LongPads"
 			(at 135.382 121.285 0)
 			(effects
 				(font
@@ -13290,7 +13290,7 @@
 				)
 			)
 		)
-		(property "MFG Name" "DvW/SukkoPerra"
+		(property "MFG Name" "DVW/SUKKOPERA"
 			(at 191.516 93.345 0)
 			(effects
 				(font
@@ -14671,7 +14671,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-20_W7.62mm_Socket_LongPads"
+		(property "Footprint" "Package_DIP:DIP-20_W7.62mm_LongPads"
 			(at 151.13 208.28 0)
 			(effects
 				(font
@@ -14847,7 +14847,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-20_W7.62mm_Socket_LongPads"
+		(property "Footprint" "Package_DIP:DIP-20_W7.62mm_LongPads"
 			(at 189.23 208.28 0)
 			(effects
 				(font
@@ -15050,7 +15050,7 @@
 				)
 			)
 		)
-		(property "MFG Name" "DvW/SukkoPerra"
+		(property "MFG Name" "DVW/SUKKOPERA"
 			(at 226.06 208.28 0)
 			(effects
 				(font
