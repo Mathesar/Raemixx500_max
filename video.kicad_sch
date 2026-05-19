@@ -16458,7 +16458,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" "594-5083NW4R700JA100"
+		(property "Mouser" "594-PR01000104708JA5"
 			(at 119.38 193.04 90)
 			(effects
 				(font
@@ -16476,7 +16476,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFG Part Num" "PR02000204708JA100 "
+		(property "MFG Part Num" "PR01000104708JA500 "
 			(at 119.38 193.04 90)
 			(effects
 				(font
@@ -17167,7 +17167,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" "594-PR02000204707JA1 "
+		(property "Mouser" "594-PR01000104707JA5 "
 			(at 255.905 193.04 90)
 			(effects
 				(font
@@ -17185,7 +17185,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFG Part Num" "PR02000204707JA100"
+		(property "MFG Part Num" "PR01000104707JA500 "
 			(at 255.905 193.04 90)
 			(effects
 				(font
