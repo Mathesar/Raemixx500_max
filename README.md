@@ -55,15 +55,15 @@ Also, The SIMM socket sticks out higher than the original DIP RAM chips. This ca
 
 For the vidiot, one can use the [OpenAmigaVideoHybrid-04](https://github.com/Mathesar/OpenAmigaVideoHybrid-04) that I have also forked from Sukkoperra.
 
-For furhter information I highly recommend reading [Sukkopera's wiki here](https://github.com/SukkoPera/Raemixx500/wiki/Assembly-and-Installation) as well. Especially for more information regarding the correct Agnus version.
+For further information I highly recommend reading [Sukkopera's wiki here](https://github.com/SukkoPera/Raemixx500/wiki/Assembly-and-Installation). Especially for important information regarding the correct Agnus version.
 
 ## Extras
-I put my Rämixx500_MAX in a new case from [a1200.net]https://www.a1200.net/). 
+I put my Rämixx500_MAX in a new case from [a1200.net](https://www.a1200.net/). 
 For that I also needed a floppy drive so I modded a Sony MFP920 PC drive.
 In the [extras](https://github.com/Mathesar/Raemixx500_max/tree/master/extras) folder in this repo one can find the FreeCad and STEP files for an eject button for this drive. I have also created an adapter that converts the Chinon eject button that comes with the a1200.net case to the Sony MFP920 drive. The Chinon eject button itself needs to be trimmed a bit on the back and then glued over the adapter.
 
 ## Releases
-If you want to get this board produced, you are recommended to get the latest release rather than the current git version, as the latter might be under development and is not guaranteed to be working.
+If one wants to get this board produced, one is recommended to get the latest release rather than the current git version, as the latter might be under development and is not guaranteed to be working.
 
 ## Disclaimer
 I have personally built and tested V3 of the Rämixx500_MAX. The current release is V3.1 that fixes some (very) minor issues. However, I have not built or tested V3.1 myself. So, build at your own risk.
