@@ -64,6 +64,7 @@ In the [extras](https://github.com/Mathesar/Raemixx500_max/tree/master/extras) f
 
 ## Releases
 If one wants to get this board produced, one is recommended to get the latest release rather than the current git version, as the latter might be under development and is not guaranteed to be working.
+The latest release also contains the BOM with Mouser part numbers and an interactive HTML BOM which is very helpful when populating the boards.
 
 ## Disclaimer
 I have personally built and tested V3 of the Rämixx500_MAX. The current release is V3.1 that fixes some (very) minor issues. However, I have not built or tested V3.1 myself. So, build at your own risk.
@@ -87,4 +88,5 @@ The Rämixx500_MAX inherits the license of the The Rämixx500 by SukkoPera as qu
 ![bottom render](img/render-bottom.png)
 
 ![Assembled V3 board](img/Raemaxx500_max.jpg)
+
 
