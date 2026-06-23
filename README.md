@@ -89,4 +89,3 @@ The Rämixx500_MAX inherits the license of the The Rämixx500 by SukkoPera as qu
 
 ![Assembled V3 board](img/Raemaxx500_max.jpg)
 
-
